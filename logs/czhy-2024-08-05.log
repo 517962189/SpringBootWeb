@@ -1,0 +1,1242 @@
+2024-08-05 09:16:50 INFO  o.h.validator.internal.util.Version - [] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 09:16:50 INFO  czhy.WebApplication - [] Starting WebApplication using Java 22.0.1 with PID 22380 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 09:16:50 INFO  czhy.WebApplication - [] The following 1 profile is active: "local"
+2024-08-05 09:16:51 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 09:16:51 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 09:16:51 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [] Finished Spring Data repository scanning in 15 ms. Found 0 Redis repository interfaces.
+2024-08-05 09:16:51 INFO  o.s.b.w.e.tomcat.TomcatWebServer - [] Tomcat initialized with port 8989 (http)
+2024-08-05 09:16:51 INFO  o.a.coyote.http11.Http11NioProtocol - [] Initializing ProtocolHandler ["http-nio-8989"]
+2024-08-05 09:16:51 INFO  o.a.catalina.core.StandardService - [] Starting service [Tomcat]
+2024-08-05 09:16:51 INFO  o.a.catalina.core.StandardEngine - [] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 09:16:51 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - [] Initializing Spring embedded WebApplicationContext
+2024-08-05 09:16:51 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [] Root WebApplicationContext: initialization completed in 1550 ms
+2024-08-05 09:16:52 INFO  o.a.coyote.http11.Http11NioProtocol - [] Starting ProtocolHandler ["http-nio-8989"]
+2024-08-05 09:16:52 INFO  o.s.b.w.e.tomcat.TomcatWebServer - [] Tomcat started on port 8989 (http) with context path '/'
+2024-08-05 09:16:52 INFO  czhy.WebApplication - [] Started WebApplication in 3.152 seconds (process running for 3.963)
+2024-08-05 09:18:42 INFO  o.h.validator.internal.util.Version - [] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 09:18:42 INFO  czhy.WebApplication - [] Starting WebApplication using Java 22.0.1 with PID 18956 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 09:18:42 INFO  czhy.WebApplication - [] The following 1 profile is active: "local"
+2024-08-05 09:18:43 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 09:18:43 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 09:18:43 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [] Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2024-08-05 09:18:43 INFO  o.s.b.w.e.tomcat.TomcatWebServer - [] Tomcat initialized with port 8989 (http)
+2024-08-05 09:18:43 INFO  o.a.coyote.http11.Http11NioProtocol - [] Initializing ProtocolHandler ["http-nio-8989"]
+2024-08-05 09:18:43 INFO  o.a.catalina.core.StandardService - [] Starting service [Tomcat]
+2024-08-05 09:18:43 INFO  o.a.catalina.core.StandardEngine - [] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 09:18:43 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - [] Initializing Spring embedded WebApplicationContext
+2024-08-05 09:18:43 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [] Root WebApplicationContext: initialization completed in 1181 ms
+2024-08-05 09:18:44 INFO  o.a.coyote.http11.Http11NioProtocol - [] Starting ProtocolHandler ["http-nio-8989"]
+2024-08-05 09:18:44 INFO  o.s.b.w.e.tomcat.TomcatWebServer - [] Tomcat started on port 8989 (http) with context path '/'
+2024-08-05 09:18:44 INFO  czhy.WebApplication - [] Started WebApplication in 2.601 seconds (process running for 3.331)
+2024-08-05 09:19:41 INFO  o.h.validator.internal.util.Version - [] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 09:19:41 INFO  czhy.WebApplication - [] Starting WebApplication using Java 22.0.1 with PID 21712 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 09:19:41 INFO  czhy.WebApplication - [] The following 1 profile is active: "local"
+2024-08-05 09:19:42 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 09:19:42 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 09:19:42 INFO  o.s.d.r.c.RepositoryConfigurationDelegate - [] Finished Spring Data repository scanning in 11 ms. Found 0 Redis repository interfaces.
+2024-08-05 09:19:43 INFO  o.s.b.w.e.tomcat.TomcatWebServer - [] Tomcat initialized with port 8989 (http)
+2024-08-05 09:19:43 INFO  o.a.coyote.http11.Http11NioProtocol - [] Initializing ProtocolHandler ["http-nio-8989"]
+2024-08-05 09:19:43 INFO  o.a.catalina.core.StandardService - [] Starting service [Tomcat]
+2024-08-05 09:19:43 INFO  o.a.catalina.core.StandardEngine - [] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 09:19:43 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - [] Initializing Spring embedded WebApplicationContext
+2024-08-05 09:19:43 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - [] Root WebApplicationContext: initialization completed in 1232 ms
+2024-08-05 09:19:44 INFO  o.a.coyote.http11.Http11NioProtocol - [] Starting ProtocolHandler ["http-nio-8989"]
+2024-08-05 09:19:44 INFO  o.s.b.w.e.tomcat.TomcatWebServer - [] Tomcat started on port 8989 (http) with context path '/'
+2024-08-05 09:19:44 INFO  czhy.WebApplication - [] Started WebApplication in 2.674 seconds (process running for 3.264)
+2024-08-05 09:23:45 INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - [] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 09:23:45 INFO  o.s.web.servlet.DispatcherServlet - [] Initializing Servlet 'dispatcherServlet'
+2024-08-05 09:23:45 INFO  o.s.web.servlet.DispatcherServlet - [] Completed initialization in 1 ms
+2024-08-05 09:23:45 INFO  czhy.controller.CUser - [6a7b521f-aaaa-46c9-b915-796c3c58e595] getPageList param:UserReqDto.PageList(page=1, size=1, name=null)
+2024-08-05 09:23:45 INFO  com.zaxxer.hikari.HikariDataSource - [6a7b521f-aaaa-46c9-b915-796c3c58e595] HikariPool-1 - Starting...
+2024-08-05 09:23:45 INFO  com.zaxxer.hikari.pool.HikariPool - [6a7b521f-aaaa-46c9-b915-796c3c58e595] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@40fc088f
+2024-08-05 09:23:45 INFO  com.zaxxer.hikari.HikariDataSource - [6a7b521f-aaaa-46c9-b915-796c3c58e595] HikariPool-1 - Start completed.
+2024-08-05 09:23:45 DEBUG c.m.UserMapper.selectList_mpCount - [6a7b521f-aaaa-46c9-b915-796c3c58e595] ==>  Preparing: SELECT COUNT(*) AS total FROM m_user
+2024-08-05 09:23:45 DEBUG c.m.UserMapper.selectList_mpCount - [6a7b521f-aaaa-46c9-b915-796c3c58e595] ==> Parameters: 
+2024-08-05 09:23:45 DEBUG c.m.UserMapper.selectList_mpCount - [6a7b521f-aaaa-46c9-b915-796c3c58e595] <==      Total: 1
+2024-08-05 09:23:45 DEBUG czhy.mapper.UserMapper.selectList - [6a7b521f-aaaa-46c9-b915-796c3c58e595] ==>  Preparing: SELECT id,name,email FROM m_user LIMIT ?
+2024-08-05 09:23:45 DEBUG czhy.mapper.UserMapper.selectList - [6a7b521f-aaaa-46c9-b915-796c3c58e595] ==> Parameters: 1(Long)
+2024-08-05 09:23:45 DEBUG czhy.mapper.UserMapper.selectList - [6a7b521f-aaaa-46c9-b915-796c3c58e595] <==      Total: 1
+2024-08-05 09:24:06 INFO  czhy.controller.CUser - [fc5f673c-4fec-4268-8b7d-a312e01e26dc] getPageList param:UserReqDto.PageList(page=1, size=1, name=null)
+2024-08-05 09:24:06 DEBUG c.m.UserMapper.selectList_mpCount - [fc5f673c-4fec-4268-8b7d-a312e01e26dc] ==>  Preparing: SELECT COUNT(*) AS total FROM m_user
+2024-08-05 09:24:06 DEBUG c.m.UserMapper.selectList_mpCount - [fc5f673c-4fec-4268-8b7d-a312e01e26dc] ==> Parameters: 
+2024-08-05 09:24:06 DEBUG c.m.UserMapper.selectList_mpCount - [fc5f673c-4fec-4268-8b7d-a312e01e26dc] <==      Total: 1
+2024-08-05 09:24:06 DEBUG czhy.mapper.UserMapper.selectList - [fc5f673c-4fec-4268-8b7d-a312e01e26dc] ==>  Preparing: SELECT id,name,email FROM m_user LIMIT ?
+2024-08-05 09:24:06 DEBUG czhy.mapper.UserMapper.selectList - [fc5f673c-4fec-4268-8b7d-a312e01e26dc] ==> Parameters: 1(Long)
+2024-08-05 09:24:06 DEBUG czhy.mapper.UserMapper.selectList - [fc5f673c-4fec-4268-8b7d-a312e01e26dc] <==      Total: 1
+2024-08-05 09:27:37 INFO  com.zaxxer.hikari.HikariDataSource - [] HikariPool-1 - Shutdown initiated...
+2024-08-05 09:27:37 INFO  com.zaxxer.hikari.HikariDataSource - [] HikariPool-1 - Shutdown completed.
+2024-08-05 09:27:42 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 09:27:42 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 13232 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 09:27:42 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 09:27:43 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 09:27:43 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 09:27:43 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2024-08-05 09:27:43 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8989 (http)
+2024-08-05 09:27:43 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8989"]
+2024-08-05 09:27:43 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 09:27:43 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 09:27:43 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 09:27:43 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1228 ms
+2024-08-05 09:27:44 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8989"]
+2024-08-05 09:27:44 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8989 (http) with context path '/'
+2024-08-05 09:27:44 INFO  czhy.WebApplication-[] Started WebApplication in 2.69 seconds (process running for 3.266)
+2024-08-05 09:27:49 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 09:27:49 INFO  o.s.web.servlet.DispatcherServlet-[] Initializing Servlet 'dispatcherServlet'
+2024-08-05 09:27:49 INFO  o.s.web.servlet.DispatcherServlet-[] Completed initialization in 1 ms
+2024-08-05 09:27:49 INFO  czhy.controller.CUser-[6cf62d12-d4f4-4780-9901-0e685c427fa2] getPageList param:UserReqDto.PageList(page=1, size=1, name=null)
+2024-08-05 09:27:49 INFO  com.zaxxer.hikari.HikariDataSource-[6cf62d12-d4f4-4780-9901-0e685c427fa2] HikariPool-1 - Starting...
+2024-08-05 09:27:49 INFO  com.zaxxer.hikari.pool.HikariPool-[6cf62d12-d4f4-4780-9901-0e685c427fa2] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@304283ed
+2024-08-05 09:27:49 INFO  com.zaxxer.hikari.HikariDataSource-[6cf62d12-d4f4-4780-9901-0e685c427fa2] HikariPool-1 - Start completed.
+2024-08-05 09:27:49 DEBUG c.m.UserMapper.selectList_mpCount-[6cf62d12-d4f4-4780-9901-0e685c427fa2] ==>  Preparing: SELECT COUNT(*) AS total FROM user_model
+2024-08-05 09:27:49 DEBUG c.m.UserMapper.selectList_mpCount-[6cf62d12-d4f4-4780-9901-0e685c427fa2] ==> Parameters: 
+2024-08-05 09:28:38 INFO  com.zaxxer.hikari.HikariDataSource-[] HikariPool-1 - Shutdown initiated...
+2024-08-05 09:28:38 INFO  com.zaxxer.hikari.HikariDataSource-[] HikariPool-1 - Shutdown completed.
+2024-08-05 09:30:53 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 09:30:53 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 25732 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 09:30:53 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 09:30:54 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 09:30:54 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 09:30:54 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2024-08-05 09:30:54 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8989 (http)
+2024-08-05 09:30:54 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8989"]
+2024-08-05 09:30:54 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 09:30:54 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 09:30:54 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 09:30:54 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1239 ms
+2024-08-05 09:30:55 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8989"]
+2024-08-05 09:30:55 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8989 (http) with context path '/'
+2024-08-05 09:30:55 INFO  czhy.WebApplication-[] Started WebApplication in 2.622 seconds (process running for 3.173)
+2024-08-05 09:30:59 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 09:30:59 INFO  o.s.web.servlet.DispatcherServlet-[] Initializing Servlet 'dispatcherServlet'
+2024-08-05 09:30:59 INFO  o.s.web.servlet.DispatcherServlet-[] Completed initialization in 0 ms
+2024-08-05 09:30:59 INFO  czhy.controller.CUser-[f3ceba4e-42fa-48bb-a3a2-201fac349c00] getPageList param:UserReqDto.PageList(page=1, size=1, name=null)
+2024-08-05 09:30:59 INFO  com.zaxxer.hikari.HikariDataSource-[f3ceba4e-42fa-48bb-a3a2-201fac349c00] HikariPool-1 - Starting...
+2024-08-05 09:30:59 INFO  com.zaxxer.hikari.pool.HikariPool-[f3ceba4e-42fa-48bb-a3a2-201fac349c00] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1ffcef80
+2024-08-05 09:30:59 INFO  com.zaxxer.hikari.HikariDataSource-[f3ceba4e-42fa-48bb-a3a2-201fac349c00] HikariPool-1 - Start completed.
+2024-08-05 09:30:59 DEBUG c.m.UserMapper.selectList_mpCount-[f3ceba4e-42fa-48bb-a3a2-201fac349c00] ==>  Preparing: SELECT COUNT(*) AS total FROM m_user
+2024-08-05 09:30:59 DEBUG c.m.UserMapper.selectList_mpCount-[f3ceba4e-42fa-48bb-a3a2-201fac349c00] ==> Parameters: 
+2024-08-05 09:30:59 DEBUG c.m.UserMapper.selectList_mpCount-[f3ceba4e-42fa-48bb-a3a2-201fac349c00] <==      Total: 1
+2024-08-05 09:30:59 DEBUG czhy.mapper.UserMapper.selectList-[f3ceba4e-42fa-48bb-a3a2-201fac349c00] ==>  Preparing: SELECT id,name,email FROM m_user LIMIT ?
+2024-08-05 09:30:59 DEBUG czhy.mapper.UserMapper.selectList-[f3ceba4e-42fa-48bb-a3a2-201fac349c00] ==> Parameters: 1(Long)
+2024-08-05 09:30:59 DEBUG czhy.mapper.UserMapper.selectList-[f3ceba4e-42fa-48bb-a3a2-201fac349c00] <==      Total: 1
+2024-08-05 09:31:54 INFO  com.zaxxer.hikari.HikariDataSource-[] HikariPool-1 - Shutdown initiated...
+2024-08-05 09:31:54 INFO  com.zaxxer.hikari.HikariDataSource-[] HikariPool-1 - Shutdown completed.
+2024-08-05 09:46:09 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 09:46:09 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 9812 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 09:46:09 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 09:46:09 WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext-[] Exception encountered during context initialization - cancelling refresh attempt: java.lang.TypeNotPresentException: Type javax.servlet.http.HttpServletRequest not present
+2024-08-05 09:46:09 INFO  o.s.b.a.l.ConditionEvaluationReportLogger-[] 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-08-05 09:46:09 ERROR o.s.boot.SpringApplication-[] Application run failed
+java.lang.TypeNotPresentException: Type javax.servlet.http.HttpServletRequest not present
+	at java.base/sun.reflect.generics.factory.CoreReflectionFactory.makeNamedType(CoreReflectionFactory.java:116)
+	at java.base/sun.reflect.generics.visitor.Reifier.visitClassTypeSignature(Reifier.java:125)
+	at java.base/sun.reflect.generics.tree.ClassTypeSignature.accept(ClassTypeSignature.java:49)
+	at java.base/sun.reflect.generics.visitor.Reifier.reifyTypeArguments(Reifier.java:68)
+	at java.base/sun.reflect.generics.visitor.Reifier.visitClassTypeSignature(Reifier.java:138)
+	at java.base/sun.reflect.generics.tree.ClassTypeSignature.accept(ClassTypeSignature.java:49)
+	at java.base/sun.reflect.generics.repository.ClassRepository.computeSuperInterfaces(ClassRepository.java:117)
+	at java.base/sun.reflect.generics.repository.ClassRepository.getSuperInterfaces(ClassRepository.java:95)
+	at java.base/java.lang.Class.getGenericInterfaces(Class.java:1336)
+	at org.springframework.core.ResolvableType.getInterfaces(ResolvableType.java:517)
+	at org.springframework.core.ResolvableType.as(ResolvableType.java:465)
+	at org.springframework.core.ResolvableType.forClass(ResolvableType.java:1093)
+	at org.springframework.plugin.core.config.PluginRegistriesBeanDefinitionRegistrar.getTargetType(PluginRegistriesBeanDefinitionRegistrar.java:101)
+	at org.springframework.plugin.core.config.PluginRegistriesBeanDefinitionRegistrar.registerBeanDefinitions(PluginRegistriesBeanDefinitionRegistrar.java:71)
+	at org.springframework.context.annotation.ImportBeanDefinitionRegistrar.registerBeanDefinitions(ImportBeanDefinitionRegistrar.java:86)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.lambda$loadBeanDefinitionsFromRegistrars$1(ConfigurationClassBeanDefinitionReader.java:376)
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:986)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitionsFromRegistrars(ConfigurationClassBeanDefinitionReader.java:375)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitionsForConfigurationClass(ConfigurationClassBeanDefinitionReader.java:148)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitions(ConfigurationClassBeanDefinitionReader.java:120)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:429)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:290)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:349)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:118)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:789)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:607)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1352)
+	at czhy.WebApplication.main(WebApplication.java:13)
+Caused by: java.lang.ClassNotFoundException: javax.servlet.http.HttpServletRequest
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:529)
+	at java.base/java.lang.Class.forName(Class.java:508)
+	at java.base/sun.reflect.generics.factory.CoreReflectionFactory.makeNamedType(CoreReflectionFactory.java:113)
+	... 32 common frames omitted
+2024-08-05 09:55:08 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 09:55:08 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 14772 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 09:55:08 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 09:55:09 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 09:55:09 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 09:55:09 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 14 ms. Found 0 Redis repository interfaces.
+2024-08-05 09:55:10 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8989 (http)
+2024-08-05 09:55:10 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8989"]
+2024-08-05 09:55:10 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 09:55:10 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 09:55:10 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 09:55:10 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1221 ms
+2024-08-05 09:55:11 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8989"]
+2024-08-05 09:55:11 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8989 (http) with context path '/'
+2024-08-05 09:55:11 INFO  czhy.WebApplication-[] Started WebApplication in 2.616 seconds (process running for 3.171)
+2024-08-05 09:56:10 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 09:56:10 INFO  o.s.web.servlet.DispatcherServlet-[] Initializing Servlet 'dispatcherServlet'
+2024-08-05 09:56:10 INFO  o.s.web.servlet.DispatcherServlet-[] Completed initialization in 1 ms
+2024-08-05 10:00:36 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 10:00:36 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 12428 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 10:00:36 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 10:00:37 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 10:00:37 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 10:00:37 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2024-08-05 10:00:37 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8989 (http)
+2024-08-05 10:00:37 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8989"]
+2024-08-05 10:00:37 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 10:00:37 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 10:00:37 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 10:00:37 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1206 ms
+2024-08-05 10:00:38 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8989"]
+2024-08-05 10:00:38 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8989 (http) with context path '/'
+2024-08-05 10:00:38 INFO  czhy.WebApplication-[] Started WebApplication in 2.594 seconds (process running for 3.171)
+2024-08-05 10:01:07 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 10:01:07 INFO  o.s.web.servlet.DispatcherServlet-[] Initializing Servlet 'dispatcherServlet'
+2024-08-05 10:01:07 INFO  o.s.web.servlet.DispatcherServlet-[] Completed initialization in 1 ms
+2024-08-05 10:03:51 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 10:03:51 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 23264 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 10:03:51 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 10:03:51 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 10:03:51 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 10:03:51 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2024-08-05 10:03:52 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8989 (http)
+2024-08-05 10:03:52 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8989"]
+2024-08-05 10:03:52 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 10:03:52 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 10:03:52 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 10:03:52 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1211 ms
+2024-08-05 10:03:53 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8989"]
+2024-08-05 10:03:53 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8989 (http) with context path '/'
+2024-08-05 10:03:53 INFO  czhy.WebApplication-[] Started WebApplication in 2.579 seconds (process running for 3.159)
+2024-08-05 10:04:02 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 10:04:02 INFO  o.s.web.servlet.DispatcherServlet-[] Initializing Servlet 'dispatcherServlet'
+2024-08-05 10:04:02 INFO  o.s.web.servlet.DispatcherServlet-[] Completed initialization in 0 ms
+2024-08-05 10:04:43 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 10:04:43 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 3424 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 10:04:43 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 10:04:44 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 10:04:44 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 10:04:44 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2024-08-05 10:04:44 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8989 (http)
+2024-08-05 10:04:44 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8989"]
+2024-08-05 10:04:44 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 10:04:44 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 10:04:45 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 10:04:45 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1196 ms
+2024-08-05 10:04:45 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8989"]
+2024-08-05 10:04:45 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8989 (http) with context path '/'
+2024-08-05 10:04:45 INFO  czhy.WebApplication-[] Started WebApplication in 2.592 seconds (process running for 3.154)
+2024-08-05 10:04:53 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 10:04:53 INFO  o.s.web.servlet.DispatcherServlet-[] Initializing Servlet 'dispatcherServlet'
+2024-08-05 10:04:53 INFO  o.s.web.servlet.DispatcherServlet-[] Completed initialization in 0 ms
+2024-08-05 10:12:44 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 10:12:44 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 18804 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 10:12:44 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 10:12:45 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 10:12:45 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 10:12:45 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2024-08-05 10:12:46 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8989 (http)
+2024-08-05 10:12:46 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8989"]
+2024-08-05 10:12:46 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 10:12:46 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 10:12:46 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 10:12:46 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1194 ms
+2024-08-05 10:12:46 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8989"]
+2024-08-05 10:12:46 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8989 (http) with context path '/'
+2024-08-05 10:12:46 INFO  czhy.WebApplication-[] Started WebApplication in 2.595 seconds (process running for 3.179)
+2024-08-05 10:13:09 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 10:13:09 INFO  o.s.web.servlet.DispatcherServlet-[] Initializing Servlet 'dispatcherServlet'
+2024-08-05 10:13:09 INFO  o.s.web.servlet.DispatcherServlet-[] Completed initialization in 1 ms
+2024-08-05 10:19:37 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 10:19:37 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 17852 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 10:19:37 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 10:19:38 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 10:19:38 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 10:19:38 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2024-08-05 10:19:38 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8989 (http)
+2024-08-05 10:19:38 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8989"]
+2024-08-05 10:19:38 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 10:19:38 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 10:19:38 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 10:19:38 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1168 ms
+2024-08-05 10:19:39 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8989"]
+2024-08-05 10:19:39 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8989 (http) with context path '/'
+2024-08-05 10:19:39 INFO  czhy.WebApplication-[] Started WebApplication in 2.564 seconds (process running for 3.138)
+2024-08-05 10:20:36 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 10:20:36 INFO  o.s.web.servlet.DispatcherServlet-[] Initializing Servlet 'dispatcherServlet'
+2024-08-05 10:20:36 INFO  o.s.web.servlet.DispatcherServlet-[] Completed initialization in 1 ms
+2024-08-05 10:26:03 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 10:26:03 INFO  czhy.WebApplicationTests-[] Starting WebApplicationTests using Java 22.0.1 with PID 18888 (started by 小陌 in D:\Work\web)
+2024-08-05 10:26:03 INFO  czhy.WebApplicationTests-[] The following 1 profile is active: "local"
+2024-08-05 10:26:05 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 10:26:05 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 10:26:05 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 15 ms. Found 0 Redis repository interfaces.
+2024-08-05 10:26:07 INFO  czhy.WebApplicationTests-[] Started WebApplicationTests in 3.749 seconds (process running for 5.033)
+2024-08-05 10:26:53 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 10:26:54 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 18124 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 10:26:54 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 10:26:54 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 10:26:54 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 10:26:54 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2024-08-05 10:26:55 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8989 (http)
+2024-08-05 10:26:55 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8989"]
+2024-08-05 10:26:55 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 10:26:55 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 10:26:55 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 10:26:55 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1175 ms
+2024-08-05 10:26:56 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8989"]
+2024-08-05 10:26:56 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8989 (http) with context path '/'
+2024-08-05 10:26:56 INFO  czhy.WebApplication-[] Started WebApplication in 2.568 seconds (process running for 3.134)
+2024-08-05 10:27:30 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 10:27:30 INFO  o.s.web.servlet.DispatcherServlet-[] Initializing Servlet 'dispatcherServlet'
+2024-08-05 10:27:30 INFO  o.s.web.servlet.DispatcherServlet-[] Completed initialization in 1 ms
+2024-08-05 10:35:07 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 10:35:07 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 18520 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 10:35:07 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 10:35:08 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 10:35:08 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 10:35:08 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2024-08-05 10:35:08 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8989 (http)
+2024-08-05 10:35:08 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8989"]
+2024-08-05 10:35:08 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 10:35:08 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 10:35:08 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 10:35:08 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1264 ms
+2024-08-05 10:35:09 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8989"]
+2024-08-05 10:35:09 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8989 (http) with context path '/'
+2024-08-05 10:35:09 INFO  czhy.WebApplication-[] Started WebApplication in 2.692 seconds (process running for 3.283)
+2024-08-05 10:35:30 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 10:35:30 INFO  o.s.web.servlet.DispatcherServlet-[] Initializing Servlet 'dispatcherServlet'
+2024-08-05 10:35:30 INFO  o.s.web.servlet.DispatcherServlet-[] Completed initialization in 1 ms
+2024-08-05 10:36:54 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 10:36:54 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 24080 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 10:36:54 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 10:36:55 WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext-[] Exception encountered during context initialization - cancelling refresh attempt: java.lang.TypeNotPresentException: Type javax.servlet.http.HttpServletRequest not present
+2024-08-05 10:36:55 INFO  o.s.b.a.l.ConditionEvaluationReportLogger-[] 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-08-05 10:36:55 ERROR o.s.boot.SpringApplication-[] Application run failed
+java.lang.TypeNotPresentException: Type javax.servlet.http.HttpServletRequest not present
+	at java.base/sun.reflect.generics.factory.CoreReflectionFactory.makeNamedType(CoreReflectionFactory.java:116)
+	at java.base/sun.reflect.generics.visitor.Reifier.visitClassTypeSignature(Reifier.java:125)
+	at java.base/sun.reflect.generics.tree.ClassTypeSignature.accept(ClassTypeSignature.java:49)
+	at java.base/sun.reflect.generics.visitor.Reifier.reifyTypeArguments(Reifier.java:68)
+	at java.base/sun.reflect.generics.visitor.Reifier.visitClassTypeSignature(Reifier.java:138)
+	at java.base/sun.reflect.generics.tree.ClassTypeSignature.accept(ClassTypeSignature.java:49)
+	at java.base/sun.reflect.generics.repository.ClassRepository.computeSuperInterfaces(ClassRepository.java:117)
+	at java.base/sun.reflect.generics.repository.ClassRepository.getSuperInterfaces(ClassRepository.java:95)
+	at java.base/java.lang.Class.getGenericInterfaces(Class.java:1336)
+	at org.springframework.core.ResolvableType.getInterfaces(ResolvableType.java:517)
+	at org.springframework.core.ResolvableType.as(ResolvableType.java:465)
+	at org.springframework.core.ResolvableType.forClass(ResolvableType.java:1093)
+	at org.springframework.plugin.core.config.PluginRegistriesBeanDefinitionRegistrar.getTargetType(PluginRegistriesBeanDefinitionRegistrar.java:101)
+	at org.springframework.plugin.core.config.PluginRegistriesBeanDefinitionRegistrar.registerBeanDefinitions(PluginRegistriesBeanDefinitionRegistrar.java:71)
+	at org.springframework.context.annotation.ImportBeanDefinitionRegistrar.registerBeanDefinitions(ImportBeanDefinitionRegistrar.java:86)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.lambda$loadBeanDefinitionsFromRegistrars$1(ConfigurationClassBeanDefinitionReader.java:376)
+	at java.base/java.util.LinkedHashMap.forEach(LinkedHashMap.java:986)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitionsFromRegistrars(ConfigurationClassBeanDefinitionReader.java:375)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitionsForConfigurationClass(ConfigurationClassBeanDefinitionReader.java:148)
+	at org.springframework.context.annotation.ConfigurationClassBeanDefinitionReader.loadBeanDefinitions(ConfigurationClassBeanDefinitionReader.java:120)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:429)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:290)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:349)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:118)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:789)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:607)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:754)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:456)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:335)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1363)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1352)
+	at czhy.WebApplication.main(WebApplication.java:13)
+Caused by: java.lang.ClassNotFoundException: javax.servlet.http.HttpServletRequest
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:529)
+	at java.base/java.lang.Class.forName(Class.java:508)
+	at java.base/sun.reflect.generics.factory.CoreReflectionFactory.makeNamedType(CoreReflectionFactory.java:113)
+	... 32 common frames omitted
+2024-08-05 10:39:41 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 10:39:41 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 6348 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 10:39:41 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 10:39:42 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 10:39:42 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 10:39:42 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2024-08-05 10:39:42 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8989 (http)
+2024-08-05 10:39:42 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8989"]
+2024-08-05 10:39:42 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 10:39:42 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 10:39:42 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 10:39:42 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1187 ms
+2024-08-05 10:39:43 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8989"]
+2024-08-05 10:39:43 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8989 (http) with context path '/'
+2024-08-05 10:39:43 INFO  czhy.WebApplication-[] Started WebApplication in 2.572 seconds (process running for 3.127)
+2024-08-05 10:40:10 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 10:40:10 INFO  o.s.web.servlet.DispatcherServlet-[] Initializing Servlet 'dispatcherServlet'
+2024-08-05 10:40:10 INFO  o.s.web.servlet.DispatcherServlet-[] Completed initialization in 1 ms
+2024-08-05 10:42:56 INFO  czhy.controller.UserController-[ddddae20-ede9-47da-95df-e27a9d5d1536] getPageList param:UserReqDto.PageList(page=1, size=1, name=null)
+2024-08-05 10:42:56 INFO  com.zaxxer.hikari.HikariDataSource-[ddddae20-ede9-47da-95df-e27a9d5d1536] HikariPool-1 - Starting...
+2024-08-05 10:42:57 INFO  com.zaxxer.hikari.pool.HikariPool-[ddddae20-ede9-47da-95df-e27a9d5d1536] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@443b8702
+2024-08-05 10:42:57 INFO  com.zaxxer.hikari.HikariDataSource-[ddddae20-ede9-47da-95df-e27a9d5d1536] HikariPool-1 - Start completed.
+2024-08-05 10:42:57 DEBUG c.m.UserMapper.selectList_mpCount-[ddddae20-ede9-47da-95df-e27a9d5d1536] ==>  Preparing: SELECT COUNT(*) AS total FROM m_user
+2024-08-05 10:42:57 DEBUG c.m.UserMapper.selectList_mpCount-[ddddae20-ede9-47da-95df-e27a9d5d1536] ==> Parameters: 
+2024-08-05 10:42:57 DEBUG c.m.UserMapper.selectList_mpCount-[ddddae20-ede9-47da-95df-e27a9d5d1536] <==      Total: 1
+2024-08-05 10:42:57 DEBUG czhy.mapper.UserMapper.selectList-[ddddae20-ede9-47da-95df-e27a9d5d1536] ==>  Preparing: SELECT id,name,email FROM m_user LIMIT ?
+2024-08-05 10:42:57 DEBUG czhy.mapper.UserMapper.selectList-[ddddae20-ede9-47da-95df-e27a9d5d1536] ==> Parameters: 1(Long)
+2024-08-05 10:42:57 DEBUG czhy.mapper.UserMapper.selectList-[ddddae20-ede9-47da-95df-e27a9d5d1536] <==      Total: 1
+2024-08-05 10:46:35 INFO  com.zaxxer.hikari.HikariDataSource-[] HikariPool-1 - Shutdown initiated...
+2024-08-05 10:46:35 INFO  com.zaxxer.hikari.HikariDataSource-[] HikariPool-1 - Shutdown completed.
+2024-08-05 10:46:39 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 10:46:39 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 2540 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 10:46:39 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 10:46:39 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 10:46:39 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 10:46:39 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2024-08-05 10:46:40 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8989 (http)
+2024-08-05 10:46:40 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8989"]
+2024-08-05 10:46:40 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 10:46:40 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 10:46:40 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 10:46:40 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1179 ms
+2024-08-05 10:46:41 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8989"]
+2024-08-05 10:46:41 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8989 (http) with context path '/'
+2024-08-05 10:46:41 INFO  czhy.WebApplication-[] Started WebApplication in 2.573 seconds (process running for 3.141)
+2024-08-05 10:47:22 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 10:47:22 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 18792 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 10:47:22 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 10:47:23 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 10:47:23 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 10:47:23 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2024-08-05 10:47:23 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8989 (http)
+2024-08-05 10:47:23 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8989"]
+2024-08-05 10:47:23 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 10:47:23 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 10:47:23 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 10:47:23 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1181 ms
+2024-08-05 10:47:24 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8989"]
+2024-08-05 10:47:24 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8989 (http) with context path '/'
+2024-08-05 10:47:24 INFO  czhy.WebApplication-[] Started WebApplication in 2.576 seconds (process running for 3.14)
+2024-08-05 10:47:34 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 10:47:34 INFO  o.s.web.servlet.DispatcherServlet-[] Initializing Servlet 'dispatcherServlet'
+2024-08-05 10:47:34 INFO  o.s.web.servlet.DispatcherServlet-[] Completed initialization in 1 ms
+2024-08-05 10:49:50 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 10:49:50 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 11416 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 10:49:50 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 10:49:51 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 10:49:51 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 10:49:51 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 13 ms. Found 0 Redis repository interfaces.
+2024-08-05 10:49:52 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8989 (http)
+2024-08-05 10:49:52 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8989"]
+2024-08-05 10:49:52 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 10:49:52 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 10:49:52 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 10:49:52 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1270 ms
+2024-08-05 10:49:52 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8989"]
+2024-08-05 10:49:52 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8989 (http) with context path '/'
+2024-08-05 10:49:52 INFO  czhy.WebApplication-[] Started WebApplication in 2.677 seconds (process running for 3.232)
+2024-08-05 10:50:14 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 10:50:15 INFO  czhy.WebApplicationTests-[] Starting WebApplicationTests using Java 22.0.1 with PID 14736 (started by 小陌 in D:\Work\web)
+2024-08-05 10:50:15 INFO  czhy.WebApplicationTests-[] The following 1 profile is active: "local"
+2024-08-05 10:50:16 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 10:50:16 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 10:50:16 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 14 ms. Found 0 Redis repository interfaces.
+2024-08-05 10:50:18 INFO  czhy.WebApplicationTests-[] Started WebApplicationTests in 3.593 seconds (process running for 4.81)
+2024-08-05 10:53:25 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 10:53:25 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 15044 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 10:53:25 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 10:53:26 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 10:53:26 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 10:53:26 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2024-08-05 10:53:27 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8989 (http)
+2024-08-05 10:53:27 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8989"]
+2024-08-05 10:53:27 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 10:53:27 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 10:53:27 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 10:53:27 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1193 ms
+2024-08-05 10:53:27 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8989"]
+2024-08-05 10:53:27 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8989 (http) with context path '/'
+2024-08-05 10:53:27 INFO  czhy.WebApplication-[] Started WebApplication in 2.625 seconds (process running for 3.19)
+2024-08-05 10:53:38 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 10:53:38 INFO  o.s.web.servlet.DispatcherServlet-[] Initializing Servlet 'dispatcherServlet'
+2024-08-05 10:53:38 INFO  o.s.web.servlet.DispatcherServlet-[] Completed initialization in 0 ms
+2024-08-05 10:55:12 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 10:55:12 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 8836 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 10:55:12 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 10:55:12 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 10:55:12 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 10:55:12 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2024-08-05 10:55:13 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8989 (http)
+2024-08-05 10:55:13 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8989"]
+2024-08-05 10:55:13 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 10:55:13 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 10:55:13 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 10:55:13 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1193 ms
+2024-08-05 10:55:14 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8989"]
+2024-08-05 10:55:14 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8989 (http) with context path '/'
+2024-08-05 10:55:14 INFO  czhy.WebApplication-[] Started WebApplication in 2.576 seconds (process running for 3.16)
+2024-08-05 10:55:23 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 10:55:23 INFO  o.s.web.servlet.DispatcherServlet-[] Initializing Servlet 'dispatcherServlet'
+2024-08-05 10:55:23 INFO  o.s.web.servlet.DispatcherServlet-[] Completed initialization in 1 ms
+2024-08-05 10:58:20 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 10:58:20 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 22844 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 10:58:20 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 10:58:21 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 10:58:21 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 10:58:21 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2024-08-05 10:58:22 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8989 (http)
+2024-08-05 10:58:22 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8989"]
+2024-08-05 10:58:22 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 10:58:22 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 10:58:22 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 10:58:22 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1173 ms
+2024-08-05 10:58:23 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8989"]
+2024-08-05 10:58:23 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8989 (http) with context path '/'
+2024-08-05 10:58:23 INFO  czhy.WebApplication-[] Started WebApplication in 2.565 seconds (process running for 3.178)
+2024-08-05 10:58:36 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 10:58:36 INFO  o.s.web.servlet.DispatcherServlet-[] Initializing Servlet 'dispatcherServlet'
+2024-08-05 10:58:36 INFO  o.s.web.servlet.DispatcherServlet-[] Completed initialization in 0 ms
+2024-08-05 11:01:40 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 11:01:40 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 12312 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 11:01:40 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 11:01:41 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 11:01:41 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 11:01:41 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2024-08-05 11:01:42 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8989 (http)
+2024-08-05 11:01:42 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8989"]
+2024-08-05 11:01:42 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 11:01:42 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 11:01:42 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 11:01:42 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1246 ms
+2024-08-05 11:01:43 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8989"]
+2024-08-05 11:01:43 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8989 (http) with context path '/'
+2024-08-05 11:01:43 INFO  czhy.WebApplication-[] Started WebApplication in 2.695 seconds (process running for 3.257)
+2024-08-05 11:02:09 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 11:02:09 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 24120 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 11:02:09 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 11:02:09 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 11:02:09 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 11:02:09 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2024-08-05 11:02:10 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8989 (http)
+2024-08-05 11:02:10 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8989"]
+2024-08-05 11:02:10 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 11:02:10 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 11:02:10 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 11:02:10 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1211 ms
+2024-08-05 11:02:11 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8989"]
+2024-08-05 11:02:11 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8989 (http) with context path '/'
+2024-08-05 11:02:11 INFO  czhy.WebApplication-[] Started WebApplication in 2.595 seconds (process running for 3.173)
+2024-08-05 11:04:34 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 11:04:35 INFO  czhy.WebApplicationTests-[] Starting WebApplicationTests using Java 22.0.1 with PID 9604 (started by 小陌 in D:\Work\web)
+2024-08-05 11:04:35 INFO  czhy.WebApplicationTests-[] The following 1 profile is active: "local"
+2024-08-05 11:04:37 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 11:04:37 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 11:04:37 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 46 ms. Found 0 Redis repository interfaces.
+2024-08-05 11:04:41 INFO  czhy.WebApplicationTests-[] Started WebApplicationTests in 7.322 seconds (process running for 11.11)
+2024-08-05 11:06:48 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 11:06:48 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 15908 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 11:06:48 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 11:06:49 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 11:06:49 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 11:06:49 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 15 ms. Found 0 Redis repository interfaces.
+2024-08-05 11:06:50 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8989 (http)
+2024-08-05 11:06:50 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8989"]
+2024-08-05 11:06:50 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 11:06:50 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 11:06:50 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 11:06:50 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1268 ms
+2024-08-05 11:06:51 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8989"]
+2024-08-05 11:06:51 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8989 (http) with context path '/'
+2024-08-05 11:06:51 INFO  czhy.WebApplication-[] Started WebApplication in 2.763 seconds (process running for 3.455)
+2024-08-05 11:07:12 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 11:07:12 INFO  o.s.web.servlet.DispatcherServlet-[] Initializing Servlet 'dispatcherServlet'
+2024-08-05 11:07:12 INFO  o.s.web.servlet.DispatcherServlet-[] Completed initialization in 1 ms
+2024-08-05 11:18:59 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 11:18:59 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 12536 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 11:18:59 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 11:19:00 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 11:19:00 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 11:19:00 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2024-08-05 11:19:01 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8080 (http)
+2024-08-05 11:19:01 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8080"]
+2024-08-05 11:19:01 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 11:19:01 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 11:19:01 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 11:19:01 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1308 ms
+2024-08-05 11:19:01 INFO  o.s.b.a.w.s.WelcomePageHandlerMapping-[] Adding welcome page: class path resource [static/index.html]
+2024-08-05 11:19:02 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8080"]
+2024-08-05 11:19:02 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8080 (http) with context path '/'
+2024-08-05 11:19:02 INFO  czhy.WebApplication-[] Started WebApplication in 2.675 seconds (process running for 5.965)
+2024-08-05 11:19:19 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 11:19:19 INFO  o.s.web.servlet.DispatcherServlet-[] Initializing Servlet 'dispatcherServlet'
+2024-08-05 11:19:19 INFO  o.s.web.servlet.DispatcherServlet-[] Completed initialization in 1 ms
+2024-08-05 11:25:12 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 11:25:12 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 22984 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 11:25:12 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 11:25:13 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 11:25:13 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 11:25:13 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2024-08-05 11:25:14 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8080 (http)
+2024-08-05 11:25:14 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8080"]
+2024-08-05 11:25:14 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 11:25:14 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 11:25:14 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 11:25:14 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1191 ms
+2024-08-05 11:25:14 INFO  o.s.b.a.w.s.WelcomePageHandlerMapping-[] Adding welcome page: class path resource [static/index.html]
+2024-08-05 11:25:15 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8080"]
+2024-08-05 11:25:15 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8080 (http) with context path '/'
+2024-08-05 11:25:15 INFO  czhy.WebApplication-[] Started WebApplication in 2.628 seconds (process running for 3.214)
+2024-08-05 11:25:21 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 11:25:21 INFO  o.s.web.servlet.DispatcherServlet-[] Initializing Servlet 'dispatcherServlet'
+2024-08-05 11:25:21 INFO  o.s.web.servlet.DispatcherServlet-[] Completed initialization in 0 ms
+2024-08-05 11:44:34 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 11:44:34 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 10180 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 11:44:34 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 11:44:35 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 11:44:35 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 11:44:35 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 15 ms. Found 0 Redis repository interfaces.
+2024-08-05 11:44:36 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8080 (http)
+2024-08-05 11:44:36 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8080"]
+2024-08-05 11:44:36 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 11:44:36 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 11:44:36 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 11:44:36 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1316 ms
+2024-08-05 11:44:37 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8080"]
+2024-08-05 11:44:37 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8080 (http) with context path '/'
+2024-08-05 11:44:37 INFO  czhy.WebApplication-[] Started WebApplication in 2.711 seconds (process running for 3.271)
+2024-08-05 11:44:52 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 11:44:52 INFO  o.s.web.servlet.DispatcherServlet-[] Initializing Servlet 'dispatcherServlet'
+2024-08-05 11:44:52 INFO  o.s.web.servlet.DispatcherServlet-[] Completed initialization in 1 ms
+2024-08-05 11:48:33 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 11:48:33 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 15300 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 11:48:33 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 11:48:34 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 11:48:34 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 11:48:34 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2024-08-05 11:48:35 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8080 (http)
+2024-08-05 11:48:35 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8080"]
+2024-08-05 11:48:35 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 11:48:35 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 11:48:35 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 11:48:35 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1190 ms
+2024-08-05 11:48:36 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8080"]
+2024-08-05 11:48:36 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8080 (http) with context path '/'
+2024-08-05 11:48:36 INFO  czhy.WebApplication-[] Started WebApplication in 2.651 seconds (process running for 3.226)
+2024-08-05 11:48:42 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 11:48:42 INFO  o.s.web.servlet.DispatcherServlet-[] Initializing Servlet 'dispatcherServlet'
+2024-08-05 11:48:42 INFO  o.s.web.servlet.DispatcherServlet-[] Completed initialization in 1 ms
+2024-08-05 11:50:01 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 11:50:01 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 17388 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 11:50:01 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 11:50:01 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 11:50:01 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 11:50:01 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2024-08-05 11:50:02 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8080 (http)
+2024-08-05 11:50:02 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8080"]
+2024-08-05 11:50:02 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 11:50:02 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 11:50:02 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 11:50:02 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1172 ms
+2024-08-05 11:50:03 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8080"]
+2024-08-05 11:50:03 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8080 (http) with context path '/'
+2024-08-05 11:50:03 INFO  czhy.WebApplication-[] Started WebApplication in 2.573 seconds (process running for 3.156)
+2024-08-05 11:50:49 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 11:50:49 INFO  o.s.web.servlet.DispatcherServlet-[] Initializing Servlet 'dispatcherServlet'
+2024-08-05 11:50:49 INFO  o.s.web.servlet.DispatcherServlet-[] Completed initialization in 1 ms
+2024-08-05 11:51:24 INFO  czhy.controller.UserController-[f2f4a3dc-944e-4b6b-a008-e267d395a97b] getPageList param:UserReqDto.PageList(page=1, size=1, name=null)
+2024-08-05 11:51:24 INFO  com.zaxxer.hikari.HikariDataSource-[f2f4a3dc-944e-4b6b-a008-e267d395a97b] HikariPool-1 - Starting...
+2024-08-05 11:51:24 INFO  com.zaxxer.hikari.pool.HikariPool-[f2f4a3dc-944e-4b6b-a008-e267d395a97b] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7fba916e
+2024-08-05 11:51:24 INFO  com.zaxxer.hikari.HikariDataSource-[f2f4a3dc-944e-4b6b-a008-e267d395a97b] HikariPool-1 - Start completed.
+2024-08-05 11:51:24 DEBUG c.m.UserMapper.selectList_mpCount-[f2f4a3dc-944e-4b6b-a008-e267d395a97b] ==>  Preparing: SELECT COUNT(*) AS total FROM m_user
+2024-08-05 11:51:24 DEBUG c.m.UserMapper.selectList_mpCount-[f2f4a3dc-944e-4b6b-a008-e267d395a97b] ==> Parameters: 
+2024-08-05 11:51:24 DEBUG c.m.UserMapper.selectList_mpCount-[f2f4a3dc-944e-4b6b-a008-e267d395a97b] <==      Total: 1
+2024-08-05 11:51:24 DEBUG czhy.mapper.UserMapper.selectList-[f2f4a3dc-944e-4b6b-a008-e267d395a97b] ==>  Preparing: SELECT id,name,email FROM m_user LIMIT ?
+2024-08-05 11:51:24 DEBUG czhy.mapper.UserMapper.selectList-[f2f4a3dc-944e-4b6b-a008-e267d395a97b] ==> Parameters: 1(Long)
+2024-08-05 11:51:24 DEBUG czhy.mapper.UserMapper.selectList-[f2f4a3dc-944e-4b6b-a008-e267d395a97b] <==      Total: 1
+2024-08-05 11:56:07 INFO  com.zaxxer.hikari.HikariDataSource-[] HikariPool-1 - Shutdown initiated...
+2024-08-05 11:56:07 INFO  com.zaxxer.hikari.HikariDataSource-[] HikariPool-1 - Shutdown completed.
+2024-08-05 12:40:02 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 12:40:02 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 5528 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 12:40:02 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 12:40:03 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 12:40:03 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 12:40:03 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2024-08-05 12:40:04 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8080 (http)
+2024-08-05 12:40:04 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8080"]
+2024-08-05 12:40:04 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 12:40:04 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 12:40:04 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 12:40:04 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1643 ms
+2024-08-05 12:40:05 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8080"]
+2024-08-05 12:40:05 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8080 (http) with context path '/'
+2024-08-05 12:40:05 INFO  czhy.WebApplication-[] Started WebApplication in 3.35 seconds (process running for 4.003)
+2024-08-05 12:40:31 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 12:40:31 INFO  o.s.web.servlet.DispatcherServlet-[] Initializing Servlet 'dispatcherServlet'
+2024-08-05 12:40:31 INFO  o.s.web.servlet.DispatcherServlet-[] Completed initialization in 1 ms
+2024-08-05 12:40:32 INFO  o.s.api.AbstractOpenApiResource-[50002d8d-21a0-4287-bcfd-877b9517a678] Init duration for springdoc-openapi is: 302 ms
+2024-08-05 12:40:51 INFO  czhy.controller.UserController-[c66c1d18-8419-49e4-9ffe-635a4e391d0f] getPageList param:UserReqDto.PageList(page=1, size=1, name=null)
+2024-08-05 12:40:51 INFO  com.zaxxer.hikari.HikariDataSource-[c66c1d18-8419-49e4-9ffe-635a4e391d0f] HikariPool-1 - Starting...
+2024-08-05 12:40:51 INFO  com.zaxxer.hikari.pool.HikariPool-[c66c1d18-8419-49e4-9ffe-635a4e391d0f] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5fc3aac3
+2024-08-05 12:40:51 INFO  com.zaxxer.hikari.HikariDataSource-[c66c1d18-8419-49e4-9ffe-635a4e391d0f] HikariPool-1 - Start completed.
+2024-08-05 12:40:51 DEBUG c.m.UserMapper.selectList_mpCount-[c66c1d18-8419-49e4-9ffe-635a4e391d0f] ==>  Preparing: SELECT COUNT(*) AS total FROM m_user
+2024-08-05 12:40:51 DEBUG c.m.UserMapper.selectList_mpCount-[c66c1d18-8419-49e4-9ffe-635a4e391d0f] ==> Parameters: 
+2024-08-05 12:40:51 DEBUG c.m.UserMapper.selectList_mpCount-[c66c1d18-8419-49e4-9ffe-635a4e391d0f] <==      Total: 1
+2024-08-05 12:40:51 DEBUG czhy.mapper.UserMapper.selectList-[c66c1d18-8419-49e4-9ffe-635a4e391d0f] ==>  Preparing: SELECT id,name,email FROM m_user LIMIT ?
+2024-08-05 12:40:51 DEBUG czhy.mapper.UserMapper.selectList-[c66c1d18-8419-49e4-9ffe-635a4e391d0f] ==> Parameters: 1(Long)
+2024-08-05 12:40:51 DEBUG czhy.mapper.UserMapper.selectList-[c66c1d18-8419-49e4-9ffe-635a4e391d0f] <==      Total: 1
+2024-08-05 13:55:45 DEBUG czhy.mapper.UserMapper.selectById-[bb622c70-3874-4ec6-9fbb-5349a8c8a44e] ==>  Preparing: SELECT id,name,email FROM m_user WHERE id=?
+2024-08-05 13:55:45 DEBUG czhy.mapper.UserMapper.selectById-[bb622c70-3874-4ec6-9fbb-5349a8c8a44e] ==> Parameters: 1(Long)
+2024-08-05 13:55:45 DEBUG czhy.mapper.UserMapper.selectById-[bb622c70-3874-4ec6-9fbb-5349a8c8a44e] <==      Total: 1
+2024-08-05 13:55:45 DEBUG czhy.mapper.UserMapper.selectById-[bb622c70-3874-4ec6-9fbb-5349a8c8a44e] ==>  Preparing: SELECT id,name,email FROM m_user WHERE id=?
+2024-08-05 13:55:45 DEBUG czhy.mapper.UserMapper.selectById-[bb622c70-3874-4ec6-9fbb-5349a8c8a44e] ==> Parameters: 1(Long)
+2024-08-05 13:55:45 DEBUG czhy.mapper.UserMapper.selectById-[bb622c70-3874-4ec6-9fbb-5349a8c8a44e] <==      Total: 1
+2024-08-05 13:55:59 DEBUG czhy.mapper.UserMapper.selectById-[58c2de76-4ac3-4f00-ace0-53db3427090b] ==>  Preparing: SELECT id,name,email FROM m_user WHERE id=?
+2024-08-05 13:55:59 DEBUG czhy.mapper.UserMapper.selectById-[58c2de76-4ac3-4f00-ace0-53db3427090b] ==> Parameters: 11(Long)
+2024-08-05 13:55:59 DEBUG czhy.mapper.UserMapper.selectById-[58c2de76-4ac3-4f00-ace0-53db3427090b] <==      Total: 0
+2024-08-05 14:00:57 INFO  com.zaxxer.hikari.HikariDataSource-[] HikariPool-1 - Shutdown initiated...
+2024-08-05 14:00:57 INFO  com.zaxxer.hikari.HikariDataSource-[] HikariPool-1 - Shutdown completed.
+2024-08-05 14:01:01 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 14:01:01 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 10376 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 14:01:01 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 14:01:02 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 14:01:02 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 14:01:02 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2024-08-05 14:01:03 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8080 (http)
+2024-08-05 14:01:03 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8080"]
+2024-08-05 14:01:03 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 14:01:03 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 14:01:03 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 14:01:03 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1420 ms
+2024-08-05 14:01:04 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8080"]
+2024-08-05 14:01:04 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8080 (http) with context path '/'
+2024-08-05 14:01:04 INFO  czhy.WebApplication-[] Started WebApplication in 2.977 seconds (process running for 3.584)
+2024-08-05 14:01:09 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 14:01:09 INFO  o.s.web.servlet.DispatcherServlet-[] Initializing Servlet 'dispatcherServlet'
+2024-08-05 14:01:09 INFO  o.s.web.servlet.DispatcherServlet-[] Completed initialization in 1 ms
+2024-08-05 14:01:10 INFO  o.s.api.AbstractOpenApiResource-[3f6cdc4c-c589-41ac-8ed2-d01486dc267f] Init duration for springdoc-openapi is: 298 ms
+2024-08-05 14:17:39 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 14:17:39 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 21352 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 14:17:39 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 14:17:40 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 14:17:40 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 14:17:40 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2024-08-05 14:17:40 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8080 (http)
+2024-08-05 14:17:40 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8080"]
+2024-08-05 14:17:40 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 14:17:40 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 14:17:40 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 14:17:40 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1361 ms
+2024-08-05 14:17:41 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8080"]
+2024-08-05 14:17:41 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8080 (http) with context path '/'
+2024-08-05 14:17:41 INFO  czhy.WebApplication-[] Started WebApplication in 2.913 seconds (process running for 3.568)
+2024-08-05 14:20:17 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 14:20:17 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 11676 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 14:20:17 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 14:20:17 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 14:20:17 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 14:20:18 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 11 ms. Found 0 Redis repository interfaces.
+2024-08-05 14:20:18 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8080 (http)
+2024-08-05 14:20:18 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8080"]
+2024-08-05 14:20:18 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 14:20:18 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 14:20:18 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 14:20:18 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1321 ms
+2024-08-05 14:20:19 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8080"]
+2024-08-05 14:20:19 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8080 (http) with context path '/'
+2024-08-05 14:20:19 INFO  czhy.WebApplication-[] Started WebApplication in 2.902 seconds (process running for 3.463)
+2024-08-05 15:09:10 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 15:09:10 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 20272 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 15:09:10 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 15:09:11 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 15:09:11 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 15:09:11 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2024-08-05 15:09:11 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8080 (http)
+2024-08-05 15:09:11 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8080"]
+2024-08-05 15:09:11 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 15:09:11 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 15:09:11 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 15:09:11 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1467 ms
+2024-08-05 15:09:12 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8080"]
+2024-08-05 15:09:12 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8080 (http) with context path '/'
+2024-08-05 15:09:12 INFO  czhy.WebApplication-[] Started WebApplication in 3.095 seconds (process running for 3.715)
+2024-08-05 15:09:17 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 15:09:17 INFO  o.s.web.servlet.DispatcherServlet-[] Initializing Servlet 'dispatcherServlet'
+2024-08-05 15:09:17 INFO  o.s.web.servlet.DispatcherServlet-[] Completed initialization in 1 ms
+2024-08-05 15:09:17 INFO  czhy.controller.UserController-[b6cc5f9f-968d-470a-a099-22822802d2bb] getPageList param:UserReqDto.PageList(page=1, size=1, name=null)
+2024-08-05 15:09:17 INFO  com.zaxxer.hikari.HikariDataSource-[b6cc5f9f-968d-470a-a099-22822802d2bb] HikariPool-1 - Starting...
+2024-08-05 15:09:17 INFO  com.zaxxer.hikari.pool.HikariPool-[b6cc5f9f-968d-470a-a099-22822802d2bb] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@34325e5e
+2024-08-05 15:09:17 INFO  com.zaxxer.hikari.HikariDataSource-[b6cc5f9f-968d-470a-a099-22822802d2bb] HikariPool-1 - Start completed.
+2024-08-05 15:09:17 DEBUG c.m.UserMapper.selectList_mpCount-[b6cc5f9f-968d-470a-a099-22822802d2bb] ==>  Preparing: SELECT COUNT(*) AS total FROM m_user
+2024-08-05 15:09:17 DEBUG c.m.UserMapper.selectList_mpCount-[b6cc5f9f-968d-470a-a099-22822802d2bb] ==> Parameters: 
+2024-08-05 15:09:17 DEBUG c.m.UserMapper.selectList_mpCount-[b6cc5f9f-968d-470a-a099-22822802d2bb] <==      Total: 1
+2024-08-05 15:09:17 DEBUG czhy.mapper.UserMapper.selectList-[b6cc5f9f-968d-470a-a099-22822802d2bb] ==>  Preparing: SELECT id,name,email FROM m_user LIMIT ?
+2024-08-05 15:09:17 DEBUG czhy.mapper.UserMapper.selectList-[b6cc5f9f-968d-470a-a099-22822802d2bb] ==> Parameters: 1(Long)
+2024-08-05 15:09:17 DEBUG czhy.mapper.UserMapper.selectList-[b6cc5f9f-968d-470a-a099-22822802d2bb] <==      Total: 1
+2024-08-05 15:09:29 INFO  czhy.controller.UserController-[a39205e9-451f-4449-ab7b-2585e8863c80] getPageList param:UserReqDto.PageList(page=1, size=1, name=111)
+2024-08-05 15:09:29 DEBUG c.m.UserMapper.selectList_mpCount-[a39205e9-451f-4449-ab7b-2585e8863c80] ==>  Preparing: SELECT COUNT(*) AS total FROM m_user WHERE (name = ?)
+2024-08-05 15:09:29 DEBUG c.m.UserMapper.selectList_mpCount-[a39205e9-451f-4449-ab7b-2585e8863c80] ==> Parameters: 111(String)
+2024-08-05 15:09:29 DEBUG c.m.UserMapper.selectList_mpCount-[a39205e9-451f-4449-ab7b-2585e8863c80] <==      Total: 1
+2024-08-05 15:11:05 INFO  com.zaxxer.hikari.HikariDataSource-[] HikariPool-1 - Shutdown initiated...
+2024-08-05 15:11:05 INFO  com.zaxxer.hikari.HikariDataSource-[] HikariPool-1 - Shutdown completed.
+2024-08-05 15:11:09 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 15:11:09 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 10632 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 15:11:09 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 15:11:09 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 15:11:09 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 15:11:10 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2024-08-05 15:11:10 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8080 (http)
+2024-08-05 15:11:10 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8080"]
+2024-08-05 15:11:10 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 15:11:10 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 15:11:10 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 15:11:10 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1343 ms
+2024-08-05 15:11:11 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8080"]
+2024-08-05 15:11:11 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8080 (http) with context path '/'
+2024-08-05 15:11:11 INFO  czhy.WebApplication-[] Started WebApplication in 2.845 seconds (process running for 3.387)
+2024-08-05 15:11:15 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 15:11:15 INFO  o.s.web.servlet.DispatcherServlet-[] Initializing Servlet 'dispatcherServlet'
+2024-08-05 15:11:15 INFO  o.s.web.servlet.DispatcherServlet-[] Completed initialization in 1 ms
+2024-08-05 15:11:15 INFO  czhy.controller.UserController-[91f7847f-8d3e-4a95-8006-bd58450fd918] getPageList param:UserReqDto.PageList(page=1, size=1, name=111)
+2024-08-05 15:11:15 INFO  czhy.service.UserService-[91f7847f-8d3e-4a95-8006-bd58450fd918] paramxxxx:UserReqDto.PageList(page=1, size=1, name=111)
+2024-08-05 15:11:16 INFO  com.zaxxer.hikari.HikariDataSource-[91f7847f-8d3e-4a95-8006-bd58450fd918] HikariPool-1 - Starting...
+2024-08-05 15:11:16 INFO  com.zaxxer.hikari.pool.HikariPool-[91f7847f-8d3e-4a95-8006-bd58450fd918] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3738b451
+2024-08-05 15:11:16 INFO  com.zaxxer.hikari.HikariDataSource-[91f7847f-8d3e-4a95-8006-bd58450fd918] HikariPool-1 - Start completed.
+2024-08-05 15:11:16 DEBUG c.m.UserMapper.selectList_mpCount-[91f7847f-8d3e-4a95-8006-bd58450fd918] ==>  Preparing: SELECT COUNT(*) AS total FROM m_user WHERE (name = ?)
+2024-08-05 15:11:16 DEBUG c.m.UserMapper.selectList_mpCount-[91f7847f-8d3e-4a95-8006-bd58450fd918] ==> Parameters: 111(String)
+2024-08-05 15:11:16 DEBUG c.m.UserMapper.selectList_mpCount-[91f7847f-8d3e-4a95-8006-bd58450fd918] <==      Total: 1
+2024-08-05 15:20:25 INFO  o.s.api.AbstractOpenApiResource-[8310255d-4802-4cb6-a972-0b416f5f7c8d] Init duration for springdoc-openapi is: 270 ms
+2024-08-05 15:30:27 INFO  com.zaxxer.hikari.HikariDataSource-[] HikariPool-1 - Shutdown initiated...
+2024-08-05 15:30:27 INFO  com.zaxxer.hikari.HikariDataSource-[] HikariPool-1 - Shutdown completed.
+2024-08-05 15:30:32 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 15:30:32 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 19016 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 15:30:32 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 15:30:33 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 15:30:33 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 15:30:33 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2024-08-05 15:30:33 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8080 (http)
+2024-08-05 15:30:33 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8080"]
+2024-08-05 15:30:33 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 15:30:33 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 15:30:34 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 15:30:34 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1460 ms
+2024-08-05 15:30:35 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8080"]
+2024-08-05 15:30:35 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8080 (http) with context path '/'
+2024-08-05 15:30:35 INFO  czhy.WebApplication-[] Started WebApplication in 3.111 seconds (process running for 3.782)
+2024-08-05 15:30:56 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 15:30:56 INFO  o.s.web.servlet.DispatcherServlet-[] Initializing Servlet 'dispatcherServlet'
+2024-08-05 15:30:56 INFO  o.s.web.servlet.DispatcherServlet-[] Completed initialization in 1 ms
+2024-08-05 15:30:57 INFO  com.zaxxer.hikari.HikariDataSource-[411831b3-22b0-4566-9ac1-a4c7f576277c] HikariPool-1 - Starting...
+2024-08-05 15:30:57 INFO  com.zaxxer.hikari.pool.HikariPool-[411831b3-22b0-4566-9ac1-a4c7f576277c] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7f1edad3
+2024-08-05 15:30:57 INFO  com.zaxxer.hikari.HikariDataSource-[411831b3-22b0-4566-9ac1-a4c7f576277c] HikariPool-1 - Start completed.
+2024-08-05 15:30:57 DEBUG czhy.mapper.UserMapper.insert-[411831b3-22b0-4566-9ac1-a4c7f576277c] ==>  Preparing: INSERT INTO m_user ( id, name, email ) VALUES ( ?, ?, ? )
+2024-08-05 15:30:57 DEBUG czhy.mapper.UserMapper.insert-[411831b3-22b0-4566-9ac1-a4c7f576277c] ==> Parameters: 1820361835797696513(Long), system(String), 51@qq.com(String)
+2024-08-05 15:30:57 DEBUG czhy.mapper.UserMapper.insert-[411831b3-22b0-4566-9ac1-a4c7f576277c] <==    Updates: 1
+2024-08-05 15:31:16 DEBUG czhy.mapper.UserMapper.selectById-[2482dbbd-e1f0-448b-a5d9-8ed4c6fe33b2] ==>  Preparing: SELECT id,name,email FROM m_user WHERE id=?
+2024-08-05 15:31:16 DEBUG czhy.mapper.UserMapper.selectById-[2482dbbd-e1f0-448b-a5d9-8ed4c6fe33b2] ==> Parameters: 2(Long)
+2024-08-05 15:31:16 DEBUG czhy.mapper.UserMapper.selectById-[2482dbbd-e1f0-448b-a5d9-8ed4c6fe33b2] <==      Total: 1
+2024-08-05 15:31:16 DEBUG czhy.mapper.UserMapper.selectById-[2482dbbd-e1f0-448b-a5d9-8ed4c6fe33b2] ==>  Preparing: SELECT id,name,email FROM m_user WHERE id=?
+2024-08-05 15:31:16 DEBUG czhy.mapper.UserMapper.selectById-[2482dbbd-e1f0-448b-a5d9-8ed4c6fe33b2] ==> Parameters: 2(Long)
+2024-08-05 15:31:16 DEBUG czhy.mapper.UserMapper.selectById-[2482dbbd-e1f0-448b-a5d9-8ed4c6fe33b2] <==      Total: 1
+2024-08-05 15:31:22 DEBUG czhy.mapper.UserMapper.selectById-[3c63d8d8-bedb-4563-8dc7-64474d0c8b34] ==>  Preparing: SELECT id,name,email FROM m_user WHERE id=?
+2024-08-05 15:31:22 DEBUG czhy.mapper.UserMapper.selectById-[3c63d8d8-bedb-4563-8dc7-64474d0c8b34] ==> Parameters: 1(Long)
+2024-08-05 15:31:22 DEBUG czhy.mapper.UserMapper.selectById-[3c63d8d8-bedb-4563-8dc7-64474d0c8b34] <==      Total: 1
+2024-08-05 15:31:22 DEBUG czhy.mapper.UserMapper.selectById-[3c63d8d8-bedb-4563-8dc7-64474d0c8b34] ==>  Preparing: SELECT id,name,email FROM m_user WHERE id=?
+2024-08-05 15:31:22 DEBUG czhy.mapper.UserMapper.selectById-[3c63d8d8-bedb-4563-8dc7-64474d0c8b34] ==> Parameters: 1(Long)
+2024-08-05 15:31:22 DEBUG czhy.mapper.UserMapper.selectById-[3c63d8d8-bedb-4563-8dc7-64474d0c8b34] <==      Total: 1
+2024-08-05 15:31:27 DEBUG czhy.mapper.UserMapper.selectById-[9009bb94-3964-4adc-bc49-bdd562a2e0f6] ==>  Preparing: SELECT id,name,email FROM m_user WHERE id=?
+2024-08-05 15:31:27 DEBUG czhy.mapper.UserMapper.selectById-[9009bb94-3964-4adc-bc49-bdd562a2e0f6] ==> Parameters: 3(Long)
+2024-08-05 15:31:27 DEBUG czhy.mapper.UserMapper.selectById-[9009bb94-3964-4adc-bc49-bdd562a2e0f6] <==      Total: 1
+2024-08-05 15:31:27 DEBUG czhy.mapper.UserMapper.selectById-[9009bb94-3964-4adc-bc49-bdd562a2e0f6] ==>  Preparing: SELECT id,name,email FROM m_user WHERE id=?
+2024-08-05 15:31:27 DEBUG czhy.mapper.UserMapper.selectById-[9009bb94-3964-4adc-bc49-bdd562a2e0f6] ==> Parameters: 3(Long)
+2024-08-05 15:31:27 DEBUG czhy.mapper.UserMapper.selectById-[9009bb94-3964-4adc-bc49-bdd562a2e0f6] <==      Total: 1
+2024-08-05 15:31:31 DEBUG czhy.mapper.UserMapper.selectById-[4c90323e-7335-439b-ae15-8746e705dccd] ==>  Preparing: SELECT id,name,email FROM m_user WHERE id=?
+2024-08-05 15:31:31 DEBUG czhy.mapper.UserMapper.selectById-[4c90323e-7335-439b-ae15-8746e705dccd] ==> Parameters: 4(Long)
+2024-08-05 15:31:31 DEBUG czhy.mapper.UserMapper.selectById-[4c90323e-7335-439b-ae15-8746e705dccd] <==      Total: 0
+2024-08-05 15:31:40 INFO  czhy.controller.UserController-[3406a207-f6ae-449b-8fcd-cadcdb7b03b8] getPageList param:UserReqDto.PageList(page=1, size=10, name=111)
+2024-08-05 15:31:40 INFO  czhy.service.UserService-[3406a207-f6ae-449b-8fcd-cadcdb7b03b8] param:UserReqDto.PageList(page=1, size=10, name=111)
+2024-08-05 15:31:40 DEBUG c.m.UserMapper.selectList_mpCount-[3406a207-f6ae-449b-8fcd-cadcdb7b03b8] ==>  Preparing: SELECT COUNT(*) AS total FROM m_user WHERE (name = ?)
+2024-08-05 15:31:40 DEBUG c.m.UserMapper.selectList_mpCount-[3406a207-f6ae-449b-8fcd-cadcdb7b03b8] ==> Parameters: 111(String)
+2024-08-05 15:31:40 DEBUG c.m.UserMapper.selectList_mpCount-[3406a207-f6ae-449b-8fcd-cadcdb7b03b8] <==      Total: 1
+2024-08-05 15:31:45 INFO  czhy.controller.UserController-[ae55a163-38aa-4e84-9a64-47d8fcfe6fee] getPageList param:UserReqDto.PageList(page=1, size=10, name=null)
+2024-08-05 15:31:45 INFO  czhy.service.UserService-[ae55a163-38aa-4e84-9a64-47d8fcfe6fee] param:UserReqDto.PageList(page=1, size=10, name=null)
+2024-08-05 15:31:45 DEBUG c.m.UserMapper.selectList_mpCount-[ae55a163-38aa-4e84-9a64-47d8fcfe6fee] ==>  Preparing: SELECT COUNT(*) AS total FROM m_user
+2024-08-05 15:31:45 DEBUG c.m.UserMapper.selectList_mpCount-[ae55a163-38aa-4e84-9a64-47d8fcfe6fee] ==> Parameters: 
+2024-08-05 15:31:45 DEBUG c.m.UserMapper.selectList_mpCount-[ae55a163-38aa-4e84-9a64-47d8fcfe6fee] <==      Total: 1
+2024-08-05 15:31:45 DEBUG czhy.mapper.UserMapper.selectList-[ae55a163-38aa-4e84-9a64-47d8fcfe6fee] ==>  Preparing: SELECT id,name,email FROM m_user LIMIT ?
+2024-08-05 15:31:45 DEBUG czhy.mapper.UserMapper.selectList-[ae55a163-38aa-4e84-9a64-47d8fcfe6fee] ==> Parameters: 10(Long)
+2024-08-05 15:31:45 DEBUG czhy.mapper.UserMapper.selectList-[ae55a163-38aa-4e84-9a64-47d8fcfe6fee] <==      Total: 4
+2024-08-05 15:34:00 DEBUG czhy.mapper.UserMapper.insert-[0fa4cfb7-8d8f-4274-b178-34b3852e9164] ==>  Preparing: INSERT INTO m_user ( id, name, email ) VALUES ( ?, ?, ? )
+2024-08-05 15:34:00 DEBUG czhy.mapper.UserMapper.insert-[0fa4cfb7-8d8f-4274-b178-34b3852e9164] ==> Parameters: 1820361835797696513(Long), system(String), 51@qq.com(String)
+2024-08-05 15:34:00 DEBUG czhy.mapper.UserMapper.insert-[0fa4cfb7-8d8f-4274-b178-34b3852e9164] <==    Updates: 1
+2024-08-05 15:55:33 DEBUG czhy.mapper.UserMapper.insert-[7358377d-9eea-421f-95c0-92fb0aa53f4b] ==>  Preparing: INSERT INTO m_user ( id, name, email ) VALUES ( ?, ?, ? )
+2024-08-05 15:55:33 DEBUG czhy.mapper.UserMapper.insert-[7358377d-9eea-421f-95c0-92fb0aa53f4b] ==> Parameters: 1820361835797696513(Long), system(String), 51@qq.com(String)
+2024-08-05 15:55:33 DEBUG czhy.mapper.UserMapper.insert-[7358377d-9eea-421f-95c0-92fb0aa53f4b] <==    Updates: 1
+2024-08-05 15:55:39 DEBUG czhy.mapper.UserMapper.insert-[d05a0700-4526-43a9-8df5-3d30779222d7] ==>  Preparing: INSERT INTO m_user ( id, name, email ) VALUES ( ?, ?, ? )
+2024-08-05 15:55:39 DEBUG czhy.mapper.UserMapper.insert-[d05a0700-4526-43a9-8df5-3d30779222d7] ==> Parameters: 1820361835797696513(Long), system(String), 51@qq.com(String)
+2024-08-05 15:56:08 DEBUG czhy.mapper.UserMapper.insert-[99eb8e30-c61a-453f-8d42-431bcb42f7b9] ==>  Preparing: INSERT INTO m_user ( id, name, email ) VALUES ( ?, ?, ? )
+2024-08-05 15:56:08 DEBUG czhy.mapper.UserMapper.insert-[99eb8e30-c61a-453f-8d42-431bcb42f7b9] ==> Parameters: 1820361835797696513(Long), system(String), 51@qq.com(String)
+2024-08-05 15:57:11 INFO  com.zaxxer.hikari.HikariDataSource-[] HikariPool-1 - Shutdown initiated...
+2024-08-05 15:57:11 INFO  com.zaxxer.hikari.HikariDataSource-[] HikariPool-1 - Shutdown completed.
+2024-08-05 15:57:15 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 15:57:15 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 20168 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 15:57:15 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 15:57:16 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 15:57:16 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 15:57:16 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 13 ms. Found 0 Redis repository interfaces.
+2024-08-05 15:57:17 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8080 (http)
+2024-08-05 15:57:17 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8080"]
+2024-08-05 15:57:17 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 15:57:17 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 15:57:17 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 15:57:17 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1363 ms
+2024-08-05 15:57:18 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8080"]
+2024-08-05 15:57:18 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8080 (http) with context path '/'
+2024-08-05 15:57:18 INFO  czhy.WebApplication-[] Started WebApplication in 2.898 seconds (process running for 3.453)
+2024-08-05 15:57:21 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 15:57:21 INFO  o.s.web.servlet.DispatcherServlet-[] Initializing Servlet 'dispatcherServlet'
+2024-08-05 15:57:21 INFO  o.s.web.servlet.DispatcherServlet-[] Completed initialization in 1 ms
+2024-08-05 15:57:21 INFO  com.zaxxer.hikari.HikariDataSource-[bb63a5ae-1f02-4dab-af21-f3831cd3bfb2] HikariPool-1 - Starting...
+2024-08-05 15:57:21 INFO  com.zaxxer.hikari.pool.HikariPool-[bb63a5ae-1f02-4dab-af21-f3831cd3bfb2] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@8c0a5db
+2024-08-05 15:57:21 INFO  com.zaxxer.hikari.HikariDataSource-[bb63a5ae-1f02-4dab-af21-f3831cd3bfb2] HikariPool-1 - Start completed.
+2024-08-05 15:57:21 DEBUG czhy.mapper.UserMapper.insert-[bb63a5ae-1f02-4dab-af21-f3831cd3bfb2] ==>  Preparing: INSERT INTO m_user ( name, email ) VALUES ( ?, ? )
+2024-08-05 15:57:21 DEBUG czhy.mapper.UserMapper.insert-[bb63a5ae-1f02-4dab-af21-f3831cd3bfb2] ==> Parameters: system(String), 51@qq.com(String)
+2024-08-05 15:57:21 DEBUG czhy.mapper.UserMapper.insert-[bb63a5ae-1f02-4dab-af21-f3831cd3bfb2] <==    Updates: 1
+2024-08-05 15:58:02 DEBUG czhy.mapper.UserMapper.insert-[2d0c8fe2-42e6-44bf-9119-dc7a4e54468a] ==>  Preparing: INSERT INTO m_user ( id, name, email ) VALUES ( ?, ?, ? )
+2024-08-05 15:58:02 DEBUG czhy.mapper.UserMapper.insert-[2d0c8fe2-42e6-44bf-9119-dc7a4e54468a] ==> Parameters: 1820361835797696514(Long), system(String), 51@qq.com(String)
+2024-08-05 15:58:02 DEBUG czhy.mapper.UserMapper.insert-[2d0c8fe2-42e6-44bf-9119-dc7a4e54468a] <==    Updates: 1
+2024-08-05 15:59:25 INFO  com.zaxxer.hikari.HikariDataSource-[] HikariPool-1 - Shutdown initiated...
+2024-08-05 15:59:25 INFO  com.zaxxer.hikari.HikariDataSource-[] HikariPool-1 - Shutdown completed.
+2024-08-05 15:59:50 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 15:59:50 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 19984 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 15:59:50 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 15:59:51 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 15:59:51 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 15:59:51 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2024-08-05 15:59:51 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8080 (http)
+2024-08-05 15:59:51 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8080"]
+2024-08-05 15:59:51 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 15:59:51 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 15:59:51 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 15:59:51 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1356 ms
+2024-08-05 15:59:52 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8080"]
+2024-08-05 15:59:52 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8080 (http) with context path '/'
+2024-08-05 15:59:52 INFO  czhy.WebApplication-[] Started WebApplication in 2.898 seconds (process running for 3.49)
+2024-08-05 16:00:20 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 16:00:20 INFO  o.s.web.servlet.DispatcherServlet-[] Initializing Servlet 'dispatcherServlet'
+2024-08-05 16:00:20 INFO  o.s.web.servlet.DispatcherServlet-[] Completed initialization in 0 ms
+2024-08-05 16:00:20 INFO  com.zaxxer.hikari.HikariDataSource-[cbb5b610-65ed-48e9-934b-5abdcd1fab6c] HikariPool-1 - Starting...
+2024-08-05 16:00:20 INFO  com.zaxxer.hikari.pool.HikariPool-[cbb5b610-65ed-48e9-934b-5abdcd1fab6c] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@7921909d
+2024-08-05 16:00:20 INFO  com.zaxxer.hikari.HikariDataSource-[cbb5b610-65ed-48e9-934b-5abdcd1fab6c] HikariPool-1 - Start completed.
+2024-08-05 16:00:20 DEBUG czhy.mapper.UserMapper.insert-[cbb5b610-65ed-48e9-934b-5abdcd1fab6c] ==>  Preparing: INSERT INTO m_user ( name, email ) VALUES ( ?, ? )
+2024-08-05 16:00:20 DEBUG czhy.mapper.UserMapper.insert-[cbb5b610-65ed-48e9-934b-5abdcd1fab6c] ==> Parameters: system(String), 51@qq.com(String)
+2024-08-05 16:00:20 DEBUG czhy.mapper.UserMapper.insert-[cbb5b610-65ed-48e9-934b-5abdcd1fab6c] <==    Updates: 1
+2024-08-05 16:01:09 INFO  com.zaxxer.hikari.HikariDataSource-[] HikariPool-1 - Shutdown initiated...
+2024-08-05 16:01:09 INFO  com.zaxxer.hikari.HikariDataSource-[] HikariPool-1 - Shutdown completed.
+2024-08-05 16:01:13 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 16:01:13 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 23788 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 16:01:13 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 16:01:14 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 16:01:14 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 16:01:14 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2024-08-05 16:01:15 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8080 (http)
+2024-08-05 16:01:15 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8080"]
+2024-08-05 16:01:15 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 16:01:15 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 16:01:15 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 16:01:15 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1329 ms
+2024-08-05 16:01:16 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8080"]
+2024-08-05 16:01:16 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8080 (http) with context path '/'
+2024-08-05 16:01:16 INFO  czhy.WebApplication-[] Started WebApplication in 2.931 seconds (process running for 3.487)
+2024-08-05 16:01:19 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 16:01:19 INFO  o.s.web.servlet.DispatcherServlet-[] Initializing Servlet 'dispatcherServlet'
+2024-08-05 16:01:19 INFO  o.s.web.servlet.DispatcherServlet-[] Completed initialization in 1 ms
+2024-08-05 16:01:19 INFO  com.zaxxer.hikari.HikariDataSource-[f9f26ffc-3cc6-4d27-92fb-dfa0d4cedfd4] HikariPool-1 - Starting...
+2024-08-05 16:01:19 INFO  com.zaxxer.hikari.pool.HikariPool-[f9f26ffc-3cc6-4d27-92fb-dfa0d4cedfd4] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1f84b4ba
+2024-08-05 16:01:19 INFO  com.zaxxer.hikari.HikariDataSource-[f9f26ffc-3cc6-4d27-92fb-dfa0d4cedfd4] HikariPool-1 - Start completed.
+2024-08-05 16:01:19 DEBUG czhy.mapper.UserMapper.insert-[f9f26ffc-3cc6-4d27-92fb-dfa0d4cedfd4] ==>  Preparing: INSERT INTO m_user ( name, email ) VALUES ( ?, ? )
+2024-08-05 16:01:20 DEBUG czhy.mapper.UserMapper.insert-[f9f26ffc-3cc6-4d27-92fb-dfa0d4cedfd4] ==> Parameters: system(String), 51@qq.com(String)
+2024-08-05 16:01:20 DEBUG czhy.mapper.UserMapper.insert-[f9f26ffc-3cc6-4d27-92fb-dfa0d4cedfd4] <==    Updates: 1
+2024-08-05 17:10:35 INFO  o.s.api.AbstractOpenApiResource-[a809e160-2d1e-4453-8566-ed51bceeda53] Init duration for springdoc-openapi is: 317 ms
+2024-08-05 17:16:54 INFO  com.zaxxer.hikari.HikariDataSource-[] HikariPool-1 - Shutdown initiated...
+2024-08-05 17:16:54 INFO  com.zaxxer.hikari.HikariDataSource-[] HikariPool-1 - Shutdown completed.
+2024-08-05 17:23:59 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 17:23:59 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 5456 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 17:23:59 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 17:24:00 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 17:24:00 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 17:24:00 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2024-08-05 17:24:00 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8080 (http)
+2024-08-05 17:24:00 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8080"]
+2024-08-05 17:24:00 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 17:24:00 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 17:24:01 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 17:24:01 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1359 ms
+2024-08-05 17:24:02 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8080"]
+2024-08-05 17:24:02 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8080 (http) with context path '/'
+2024-08-05 17:24:02 INFO  czhy.WebApplication-[] Started WebApplication in 2.913 seconds (process running for 3.502)
+2024-08-05 17:34:29 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 17:34:29 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 11872 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 17:34:29 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 17:34:30 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 17:34:30 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 17:34:30 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2024-08-05 17:34:30 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8080 (http)
+2024-08-05 17:34:30 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8080"]
+2024-08-05 17:34:30 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 17:34:30 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 17:34:31 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 17:34:31 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1342 ms
+2024-08-05 17:34:32 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8080"]
+2024-08-05 17:34:32 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8080 (http) with context path '/'
+2024-08-05 17:34:32 INFO  czhy.WebApplication-[] Started WebApplication in 2.919 seconds (process running for 3.504)
+2024-08-05 17:34:43 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 17:34:43 INFO  o.s.web.servlet.DispatcherServlet-[] Initializing Servlet 'dispatcherServlet'
+2024-08-05 17:34:43 INFO  o.s.web.servlet.DispatcherServlet-[] Completed initialization in 1 ms
+2024-08-05 17:34:43 INFO  czhy.controller.UserController-[b58c7313-4231-43c1-9cc5-ed9c5a041cec] getPageList param:UserReqDto.PageList(page=1, size=10, name=null)
+2024-08-05 17:34:43 INFO  czhy.service.UserService-[b58c7313-4231-43c1-9cc5-ed9c5a041cec] param:UserReqDto.PageList(page=1, size=10, name=null)
+2024-08-05 17:34:43 INFO  com.zaxxer.hikari.HikariDataSource-[b58c7313-4231-43c1-9cc5-ed9c5a041cec] HikariPool-1 - Starting...
+2024-08-05 17:34:43 INFO  com.zaxxer.hikari.pool.HikariPool-[b58c7313-4231-43c1-9cc5-ed9c5a041cec] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4aac864
+2024-08-05 17:34:43 INFO  com.zaxxer.hikari.HikariDataSource-[b58c7313-4231-43c1-9cc5-ed9c5a041cec] HikariPool-1 - Start completed.
+2024-08-05 17:34:43 DEBUG c.m.UserMapper.selectList_mpCount-[b58c7313-4231-43c1-9cc5-ed9c5a041cec] ==>  Preparing: SELECT COUNT(*) AS total FROM m_user
+2024-08-05 17:34:43 DEBUG c.m.UserMapper.selectList_mpCount-[b58c7313-4231-43c1-9cc5-ed9c5a041cec] ==> Parameters: 
+2024-08-05 17:34:43 DEBUG c.m.UserMapper.selectList_mpCount-[b58c7313-4231-43c1-9cc5-ed9c5a041cec] <==      Total: 1
+2024-08-05 17:34:43 DEBUG czhy.mapper.UserMapper.selectList-[b58c7313-4231-43c1-9cc5-ed9c5a041cec] ==>  Preparing: SELECT id,name,email FROM m_user LIMIT ?
+2024-08-05 17:34:43 DEBUG czhy.mapper.UserMapper.selectList-[b58c7313-4231-43c1-9cc5-ed9c5a041cec] ==> Parameters: 10(Long)
+2024-08-05 17:34:43 DEBUG czhy.mapper.UserMapper.selectList-[b58c7313-4231-43c1-9cc5-ed9c5a041cec] <==      Total: 3
+2024-08-05 17:35:06 INFO  o.s.api.AbstractOpenApiResource-[55db733e-d709-407c-b81f-6da8cd50a5da] Init duration for springdoc-openapi is: 266 ms
+2024-08-05 17:39:59 INFO  com.zaxxer.hikari.HikariDataSource-[] HikariPool-1 - Shutdown initiated...
+2024-08-05 17:39:59 INFO  com.zaxxer.hikari.HikariDataSource-[] HikariPool-1 - Shutdown completed.
+2024-08-05 17:40:02 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 17:40:03 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 15940 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 17:40:03 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 17:40:03 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 17:40:03 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 17:40:03 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2024-08-05 17:40:04 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8080 (http)
+2024-08-05 17:40:04 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8080"]
+2024-08-05 17:40:04 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 17:40:04 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 17:40:04 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 17:40:04 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1326 ms
+2024-08-05 17:40:05 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8080"]
+2024-08-05 17:40:05 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8080 (http) with context path '/'
+2024-08-05 17:40:05 INFO  czhy.WebApplication-[] Started WebApplication in 2.873 seconds (process running for 3.455)
+2024-08-05 18:27:00 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 18:27:01 INFO  czhy.WebApplicationTests-[] Starting WebApplicationTests using Java 22.0.1 with PID 9684 (started by 小陌 in D:\Work\web)
+2024-08-05 18:27:01 INFO  czhy.WebApplicationTests-[] The following 1 profile is active: "local"
+2024-08-05 18:27:02 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 18:27:02 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 18:27:02 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 16 ms. Found 0 Redis repository interfaces.
+2024-08-05 18:27:04 INFO  czhy.WebApplicationTests-[] Started WebApplicationTests in 4.085 seconds (process running for 5.278)
+2024-08-05 18:35:10 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 18:35:10 INFO  czhy.WebApplicationTests-[] Starting WebApplicationTests using Java 22.0.1 with PID 24492 (started by 小陌 in D:\Work\web)
+2024-08-05 18:35:10 INFO  czhy.WebApplicationTests-[] The following 1 profile is active: "local"
+2024-08-05 18:35:11 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 18:35:11 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 18:35:12 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 19 ms. Found 0 Redis repository interfaces.
+2024-08-05 18:35:14 INFO  czhy.WebApplicationTests-[] Started WebApplicationTests in 4.24 seconds (process running for 5.586)
+2024-08-05 18:36:48 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 18:36:48 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 16332 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 18:36:48 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 18:36:49 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 18:36:49 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 18:36:49 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 12 ms. Found 0 Redis repository interfaces.
+2024-08-05 18:36:50 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8080 (http)
+2024-08-05 18:36:50 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8080"]
+2024-08-05 18:36:50 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 18:36:50 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 18:36:50 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 18:36:50 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1361 ms
+2024-08-05 18:36:51 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8080"]
+2024-08-05 18:36:51 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8080 (http) with context path '/'
+2024-08-05 18:36:51 INFO  czhy.WebApplication-[] Started WebApplication in 2.996 seconds (process running for 3.658)
+2024-08-05 18:38:40 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 18:38:40 INFO  czhy.WebApplicationTests-[] Starting WebApplicationTests using Java 22.0.1 with PID 10188 (started by 小陌 in D:\Work\web)
+2024-08-05 18:38:40 INFO  czhy.WebApplicationTests-[] The following 1 profile is active: "local"
+2024-08-05 18:38:41 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 18:38:41 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 18:38:41 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 15 ms. Found 0 Redis repository interfaces.
+2024-08-05 18:38:44 INFO  czhy.WebApplicationTests-[] Started WebApplicationTests in 4.485 seconds (process running for 6.118)
+2024-08-05 18:40:11 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 18:40:11 INFO  czhy.WebApplicationTests-[] Starting WebApplicationTests using Java 22.0.1 with PID 14628 (started by 小陌 in D:\Work\web)
+2024-08-05 18:40:11 INFO  czhy.WebApplicationTests-[] The following 1 profile is active: "local"
+2024-08-05 18:40:12 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 18:40:12 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 18:40:12 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 17 ms. Found 0 Redis repository interfaces.
+2024-08-05 18:40:14 INFO  czhy.WebApplicationTests-[] Started WebApplicationTests in 4.131 seconds (process running for 5.355)
+2024-08-05 18:43:12 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 18:43:12 INFO  czhy.WebApplicationTests-[] Starting WebApplicationTests using Java 22.0.1 with PID 8908 (started by 小陌 in D:\Work\web)
+2024-08-05 18:43:12 INFO  czhy.WebApplicationTests-[] The following 1 profile is active: "local"
+2024-08-05 18:43:14 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 18:43:14 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 18:43:14 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 17 ms. Found 0 Redis repository interfaces.
+2024-08-05 18:43:16 INFO  czhy.WebApplicationTests-[] Started WebApplicationTests in 4.576 seconds (process running for 6.137)
+2024-08-05 18:49:53 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 18:49:53 INFO  o.s.web.servlet.DispatcherServlet-[] Initializing Servlet 'dispatcherServlet'
+2024-08-05 18:49:53 INFO  o.s.web.servlet.DispatcherServlet-[] Completed initialization in 1 ms
+2024-08-05 18:49:53 INFO  czhy.controller.UserController-[ea1ec7dc-4675-45f2-9005-df6a1a637bd3] getPageList param:UserReqDto.PageList(page=1, size=10, name=null)
+2024-08-05 18:49:53 INFO  czhy.service.UserService-[ea1ec7dc-4675-45f2-9005-df6a1a637bd3] param:UserReqDto.PageList(page=1, size=10, name=null)
+2024-08-05 18:49:53 INFO  com.zaxxer.hikari.HikariDataSource-[ea1ec7dc-4675-45f2-9005-df6a1a637bd3] HikariPool-1 - Starting...
+2024-08-05 18:49:53 INFO  com.zaxxer.hikari.pool.HikariPool-[ea1ec7dc-4675-45f2-9005-df6a1a637bd3] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@1a4487e4
+2024-08-05 18:49:53 INFO  com.zaxxer.hikari.HikariDataSource-[ea1ec7dc-4675-45f2-9005-df6a1a637bd3] HikariPool-1 - Start completed.
+2024-08-05 18:49:53 DEBUG c.m.UserMapper.selectList_mpCount-[ea1ec7dc-4675-45f2-9005-df6a1a637bd3] ==>  Preparing: SELECT COUNT(*) AS total FROM m_user
+2024-08-05 18:49:53 DEBUG c.m.UserMapper.selectList_mpCount-[ea1ec7dc-4675-45f2-9005-df6a1a637bd3] ==> Parameters: 
+2024-08-05 18:49:53 DEBUG c.m.UserMapper.selectList_mpCount-[ea1ec7dc-4675-45f2-9005-df6a1a637bd3] <==      Total: 1
+2024-08-05 18:49:53 DEBUG czhy.mapper.UserMapper.selectList-[ea1ec7dc-4675-45f2-9005-df6a1a637bd3] ==>  Preparing: SELECT id,name,email FROM m_user LIMIT ?
+2024-08-05 18:49:53 DEBUG czhy.mapper.UserMapper.selectList-[ea1ec7dc-4675-45f2-9005-df6a1a637bd3] ==> Parameters: 10(Long)
+2024-08-05 18:49:53 DEBUG czhy.mapper.UserMapper.selectList-[ea1ec7dc-4675-45f2-9005-df6a1a637bd3] <==      Total: 3
+2024-08-05 18:50:36 INFO  com.zaxxer.hikari.HikariDataSource-[] HikariPool-1 - Shutdown initiated...
+2024-08-05 18:50:36 INFO  com.zaxxer.hikari.HikariDataSource-[] HikariPool-1 - Shutdown completed.
+2024-08-05 18:50:40 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 18:50:41 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 7332 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 18:50:41 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 18:50:41 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 18:50:41 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 18:50:41 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 13 ms. Found 0 Redis repository interfaces.
+2024-08-05 18:50:42 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8080 (http)
+2024-08-05 18:50:42 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8080"]
+2024-08-05 18:50:42 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 18:50:42 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 18:50:42 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 18:50:42 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1372 ms
+2024-08-05 18:50:43 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8080"]
+2024-08-05 18:50:43 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8080 (http) with context path '/'
+2024-08-05 18:50:43 INFO  czhy.WebApplication-[] Started WebApplication in 3.038 seconds (process running for 3.696)
+2024-08-05 18:50:58 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 18:50:58 INFO  o.s.web.servlet.DispatcherServlet-[] Initializing Servlet 'dispatcherServlet'
+2024-08-05 18:50:58 INFO  o.s.web.servlet.DispatcherServlet-[] Completed initialization in 1 ms
+2024-08-05 18:50:58 INFO  czhy.controller.UserController-[80dc9e95-1c4e-4f2a-ad31-f7107e0d5cee] getPageList param:UserReqDto.PageList(page=1, size=10, name=1)
+2024-08-05 18:50:58 INFO  czhy.service.UserService-[80dc9e95-1c4e-4f2a-ad31-f7107e0d5cee] param:UserReqDto.PageList(page=1, size=10, name=1)
+2024-08-05 18:50:59 INFO  com.zaxxer.hikari.HikariDataSource-[80dc9e95-1c4e-4f2a-ad31-f7107e0d5cee] HikariPool-1 - Starting...
+2024-08-05 18:50:59 INFO  com.zaxxer.hikari.pool.HikariPool-[80dc9e95-1c4e-4f2a-ad31-f7107e0d5cee] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@466a04e1
+2024-08-05 18:50:59 INFO  com.zaxxer.hikari.HikariDataSource-[80dc9e95-1c4e-4f2a-ad31-f7107e0d5cee] HikariPool-1 - Start completed.
+2024-08-05 18:50:59 DEBUG c.m.UserMapper.selectList_mpCount-[80dc9e95-1c4e-4f2a-ad31-f7107e0d5cee] ==>  Preparing: SELECT COUNT(*) AS total FROM m_user WHERE (name LIKE ?)
+2024-08-05 18:50:59 DEBUG c.m.UserMapper.selectList_mpCount-[80dc9e95-1c4e-4f2a-ad31-f7107e0d5cee] ==> Parameters: %1%(String)
+2024-08-05 18:50:59 DEBUG c.m.UserMapper.selectList_mpCount-[80dc9e95-1c4e-4f2a-ad31-f7107e0d5cee] <==      Total: 1
+2024-08-05 18:50:59 DEBUG czhy.mapper.UserMapper.selectList-[80dc9e95-1c4e-4f2a-ad31-f7107e0d5cee] ==>  Preparing: SELECT id,name,email FROM m_user WHERE (name LIKE ?) LIMIT ?
+2024-08-05 18:50:59 DEBUG czhy.mapper.UserMapper.selectList-[80dc9e95-1c4e-4f2a-ad31-f7107e0d5cee] ==> Parameters: %1%(String), 10(Long)
+2024-08-05 18:50:59 DEBUG czhy.mapper.UserMapper.selectList-[80dc9e95-1c4e-4f2a-ad31-f7107e0d5cee] <==      Total: 1
+2024-08-05 18:51:25 INFO  czhy.controller.UserController-[5ae6d6f5-19ee-4231-87a2-22bf59ac94b2] getPageList param:UserReqDto.PageList(page=1, size=10, name=2)
+2024-08-05 18:51:25 INFO  czhy.service.UserService-[5ae6d6f5-19ee-4231-87a2-22bf59ac94b2] param:UserReqDto.PageList(page=1, size=10, name=2)
+2024-08-05 18:51:25 DEBUG c.m.UserMapper.selectList_mpCount-[5ae6d6f5-19ee-4231-87a2-22bf59ac94b2] ==>  Preparing: SELECT COUNT(*) AS total FROM m_user WHERE (name LIKE ?)
+2024-08-05 18:51:25 DEBUG c.m.UserMapper.selectList_mpCount-[5ae6d6f5-19ee-4231-87a2-22bf59ac94b2] ==> Parameters: %2%(String)
+2024-08-05 18:51:25 DEBUG c.m.UserMapper.selectList_mpCount-[5ae6d6f5-19ee-4231-87a2-22bf59ac94b2] <==      Total: 1
+2024-08-05 18:51:25 DEBUG czhy.mapper.UserMapper.selectList-[5ae6d6f5-19ee-4231-87a2-22bf59ac94b2] ==>  Preparing: SELECT id,name,email FROM m_user WHERE (name LIKE ?) LIMIT ?
+2024-08-05 18:51:25 DEBUG czhy.mapper.UserMapper.selectList-[5ae6d6f5-19ee-4231-87a2-22bf59ac94b2] ==> Parameters: %2%(String), 10(Long)
+2024-08-05 18:51:25 DEBUG czhy.mapper.UserMapper.selectList-[5ae6d6f5-19ee-4231-87a2-22bf59ac94b2] <==      Total: 1
+2024-08-05 18:51:29 INFO  czhy.controller.UserController-[7bd5dd66-6f23-4eac-b649-2e54368c964e] getPageList param:UserReqDto.PageList(page=1, size=10, name=3)
+2024-08-05 18:51:29 INFO  czhy.service.UserService-[7bd5dd66-6f23-4eac-b649-2e54368c964e] param:UserReqDto.PageList(page=1, size=10, name=3)
+2024-08-05 18:51:29 DEBUG c.m.UserMapper.selectList_mpCount-[7bd5dd66-6f23-4eac-b649-2e54368c964e] ==>  Preparing: SELECT COUNT(*) AS total FROM m_user WHERE (name LIKE ?)
+2024-08-05 18:51:29 DEBUG c.m.UserMapper.selectList_mpCount-[7bd5dd66-6f23-4eac-b649-2e54368c964e] ==> Parameters: %3%(String)
+2024-08-05 18:51:29 DEBUG c.m.UserMapper.selectList_mpCount-[7bd5dd66-6f23-4eac-b649-2e54368c964e] <==      Total: 1
+2024-08-05 18:51:29 DEBUG czhy.mapper.UserMapper.selectList-[7bd5dd66-6f23-4eac-b649-2e54368c964e] ==>  Preparing: SELECT id,name,email FROM m_user WHERE (name LIKE ?) LIMIT ?
+2024-08-05 18:51:29 DEBUG czhy.mapper.UserMapper.selectList-[7bd5dd66-6f23-4eac-b649-2e54368c964e] ==> Parameters: %3%(String), 10(Long)
+2024-08-05 18:51:29 DEBUG czhy.mapper.UserMapper.selectList-[7bd5dd66-6f23-4eac-b649-2e54368c964e] <==      Total: 1
+2024-08-05 18:55:41 INFO  com.zaxxer.hikari.HikariDataSource-[] HikariPool-1 - Shutdown initiated...
+2024-08-05 18:55:41 INFO  com.zaxxer.hikari.HikariDataSource-[] HikariPool-1 - Shutdown completed.
+2024-08-05 18:55:46 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 18:55:46 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 10340 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 18:55:46 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 18:55:46 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 18:55:46 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 18:55:47 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 13 ms. Found 0 Redis repository interfaces.
+2024-08-05 18:55:47 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8080 (http)
+2024-08-05 18:55:47 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8080"]
+2024-08-05 18:55:47 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 18:55:47 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 18:55:47 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 18:55:47 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1338 ms
+2024-08-05 18:55:48 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8080"]
+2024-08-05 18:55:48 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8080 (http) with context path '/'
+2024-08-05 18:55:48 INFO  czhy.WebApplication-[] Started WebApplication in 3.027 seconds (process running for 3.733)
+2024-08-05 18:55:50 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 18:55:50 INFO  o.s.web.servlet.DispatcherServlet-[] Initializing Servlet 'dispatcherServlet'
+2024-08-05 18:55:50 INFO  o.s.web.servlet.DispatcherServlet-[] Completed initialization in 1 ms
+2024-08-05 18:55:50 INFO  czhy.controller.UserController-[7f42df71-dc7b-485c-9074-c356a03b4127] getPageList param:UserReqDto.PageList(page=1, size=10, name=null)
+2024-08-05 18:55:50 INFO  czhy.service.UserService-[7f42df71-dc7b-485c-9074-c356a03b4127] param:UserReqDto.PageList(page=1, size=10, name=null)
+2024-08-05 18:55:50 INFO  com.zaxxer.hikari.HikariDataSource-[7f42df71-dc7b-485c-9074-c356a03b4127] HikariPool-1 - Starting...
+2024-08-05 18:55:51 INFO  com.zaxxer.hikari.pool.HikariPool-[7f42df71-dc7b-485c-9074-c356a03b4127] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5ffc42ca
+2024-08-05 18:55:51 INFO  com.zaxxer.hikari.HikariDataSource-[7f42df71-dc7b-485c-9074-c356a03b4127] HikariPool-1 - Start completed.
+2024-08-05 18:55:51 DEBUG c.m.UserMapper.selectList_mpCount-[7f42df71-dc7b-485c-9074-c356a03b4127] ==>  Preparing: SELECT COUNT(*) AS total FROM m_user
+2024-08-05 18:55:51 DEBUG c.m.UserMapper.selectList_mpCount-[7f42df71-dc7b-485c-9074-c356a03b4127] ==> Parameters: 
+2024-08-05 18:55:51 DEBUG c.m.UserMapper.selectList_mpCount-[7f42df71-dc7b-485c-9074-c356a03b4127] <==      Total: 1
+2024-08-05 18:55:51 DEBUG czhy.mapper.UserMapper.selectList-[7f42df71-dc7b-485c-9074-c356a03b4127] ==>  Preparing: SELECT id,name,email FROM m_user ORDER BY id DESC LIMIT ?
+2024-08-05 18:55:51 DEBUG czhy.mapper.UserMapper.selectList-[7f42df71-dc7b-485c-9074-c356a03b4127] ==> Parameters: 10(Long)
+2024-08-05 18:55:51 DEBUG czhy.mapper.UserMapper.selectList-[7f42df71-dc7b-485c-9074-c356a03b4127] <==      Total: 3
+2024-08-05 18:57:14 INFO  com.zaxxer.hikari.HikariDataSource-[] HikariPool-1 - Shutdown initiated...
+2024-08-05 18:57:14 INFO  com.zaxxer.hikari.HikariDataSource-[] HikariPool-1 - Shutdown completed.
+2024-08-05 18:57:16 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 18:57:16 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 17544 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 18:57:16 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 18:57:17 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 18:57:17 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 18:57:17 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 14 ms. Found 0 Redis repository interfaces.
+2024-08-05 18:57:17 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8080 (http)
+2024-08-05 18:57:17 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8080"]
+2024-08-05 18:57:17 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 18:57:17 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 18:57:17 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 18:57:17 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1403 ms
+2024-08-05 18:57:18 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8080"]
+2024-08-05 18:57:18 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8080 (http) with context path '/'
+2024-08-05 18:57:18 INFO  czhy.WebApplication-[] Started WebApplication in 3.008 seconds (process running for 3.645)
+2024-08-05 18:57:20 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 18:57:20 INFO  o.s.web.servlet.DispatcherServlet-[] Initializing Servlet 'dispatcherServlet'
+2024-08-05 18:57:20 INFO  o.s.web.servlet.DispatcherServlet-[] Completed initialization in 1 ms
+2024-08-05 18:57:20 INFO  czhy.controller.UserController-[cffba967-8bb7-41bf-b220-9d382aab2994] getPageList param:UserReqDto.PageList(page=1, size=10, name=null)
+2024-08-05 18:57:20 INFO  czhy.service.UserService-[cffba967-8bb7-41bf-b220-9d382aab2994] param:UserReqDto.PageList(page=1, size=10, name=null)
+2024-08-05 18:57:20 INFO  com.zaxxer.hikari.HikariDataSource-[cffba967-8bb7-41bf-b220-9d382aab2994] HikariPool-1 - Starting...
+2024-08-05 18:57:21 INFO  com.zaxxer.hikari.pool.HikariPool-[cffba967-8bb7-41bf-b220-9d382aab2994] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@408a1fcd
+2024-08-05 18:57:21 INFO  com.zaxxer.hikari.HikariDataSource-[cffba967-8bb7-41bf-b220-9d382aab2994] HikariPool-1 - Start completed.
+2024-08-05 18:57:33 INFO  czhy.controller.UserController-[5b76b579-5d5d-4380-9e36-82c7f835447e] getPageList param:UserReqDto.PageList(page=1, size=10, name=null)
+2024-08-05 18:57:33 INFO  czhy.service.UserService-[5b76b579-5d5d-4380-9e36-82c7f835447e] param:UserReqDto.PageList(page=1, size=10, name=null)
+2024-08-05 18:58:04 INFO  com.zaxxer.hikari.HikariDataSource-[] HikariPool-1 - Shutdown initiated...
+2024-08-05 18:58:04 INFO  com.zaxxer.hikari.HikariDataSource-[] HikariPool-1 - Shutdown completed.
+2024-08-05 18:58:06 INFO  o.h.validator.internal.util.Version-[] HV000001: Hibernate Validator 8.0.1.Final
+2024-08-05 18:58:06 INFO  czhy.WebApplication-[] Starting WebApplication using Java 22.0.1 with PID 7320 (D:\Work\web\target\classes started by 小陌 in D:\Work\web)
+2024-08-05 18:58:06 INFO  czhy.WebApplication-[] The following 1 profile is active: "local"
+2024-08-05 18:58:07 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Multiple Spring Data modules found, entering strict repository configuration mode
+2024-08-05 18:58:07 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2024-08-05 18:58:07 INFO  o.s.d.r.c.RepositoryConfigurationDelegate-[] Finished Spring Data repository scanning in 13 ms. Found 0 Redis repository interfaces.
+2024-08-05 18:58:08 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat initialized with port 8080 (http)
+2024-08-05 18:58:08 INFO  o.a.coyote.http11.Http11NioProtocol-[] Initializing ProtocolHandler ["http-nio-8080"]
+2024-08-05 18:58:08 INFO  o.a.catalina.core.StandardService-[] Starting service [Tomcat]
+2024-08-05 18:58:08 INFO  o.a.catalina.core.StandardEngine-[] Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-05 18:58:08 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring embedded WebApplicationContext
+2024-08-05 18:58:08 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext-[] Root WebApplicationContext: initialization completed in 1349 ms
+2024-08-05 18:58:09 INFO  o.a.coyote.http11.Http11NioProtocol-[] Starting ProtocolHandler ["http-nio-8080"]
+2024-08-05 18:58:09 INFO  o.s.b.w.e.tomcat.TomcatWebServer-[] Tomcat started on port 8080 (http) with context path '/'
+2024-08-05 18:58:09 INFO  czhy.WebApplication-[] Started WebApplication in 2.941 seconds (process running for 3.603)
+2024-08-05 18:58:15 INFO  o.a.c.c.C.[Tomcat].[localhost].[/]-[] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-05 18:58:15 INFO  o.s.web.servlet.DispatcherServlet-[] Initializing Servlet 'dispatcherServlet'
+2024-08-05 18:58:15 INFO  o.s.web.servlet.DispatcherServlet-[] Completed initialization in 1 ms
+2024-08-05 18:58:15 INFO  czhy.controller.UserController-[79b875fd-d747-40d7-b317-ef4206105e05] getPageList param:UserReqDto.PageList(page=1, size=10, name=null)
+2024-08-05 18:58:15 INFO  czhy.service.UserService-[79b875fd-d747-40d7-b317-ef4206105e05] param:UserReqDto.PageList(page=1, size=10, name=null)
+2024-08-05 18:58:15 INFO  com.zaxxer.hikari.HikariDataSource-[79b875fd-d747-40d7-b317-ef4206105e05] HikariPool-1 - Starting...
+2024-08-05 18:58:16 INFO  com.zaxxer.hikari.pool.HikariPool-[79b875fd-d747-40d7-b317-ef4206105e05] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5fe3c53a
+2024-08-05 18:58:16 INFO  com.zaxxer.hikari.HikariDataSource-[79b875fd-d747-40d7-b317-ef4206105e05] HikariPool-1 - Start completed.
+2024-08-05 18:58:16 DEBUG c.m.UserMapper.selectList_mpCount-[79b875fd-d747-40d7-b317-ef4206105e05] ==>  Preparing: SELECT COUNT(*) AS total FROM m_user
+2024-08-05 18:58:16 DEBUG c.m.UserMapper.selectList_mpCount-[79b875fd-d747-40d7-b317-ef4206105e05] ==> Parameters: 
+2024-08-05 18:58:16 DEBUG c.m.UserMapper.selectList_mpCount-[79b875fd-d747-40d7-b317-ef4206105e05] <==      Total: 1
+2024-08-05 18:58:16 DEBUG czhy.mapper.UserMapper.selectList-[79b875fd-d747-40d7-b317-ef4206105e05] ==>  Preparing: SELECT id,name,email FROM m_user ORDER BY id DESC LIMIT ?
+2024-08-05 18:58:16 DEBUG czhy.mapper.UserMapper.selectList-[79b875fd-d747-40d7-b317-ef4206105e05] ==> Parameters: 10(Long)
+2024-08-05 18:58:16 DEBUG czhy.mapper.UserMapper.selectList-[79b875fd-d747-40d7-b317-ef4206105e05] <==      Total: 3
+2024-08-05 18:59:31 INFO  com.zaxxer.hikari.HikariDataSource-[] HikariPool-1 - Shutdown initiated...
+2024-08-05 18:59:31 INFO  com.zaxxer.hikari.HikariDataSource-[] HikariPool-1 - Shutdown completed.
